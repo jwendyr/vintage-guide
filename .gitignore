@@ -1,0 +1,14 @@
+# private: addresses / property notes (not in repo without Wendy's OK)
+house-counts*.json
+house-counts.json.bak*
+house-notes-private.md
+combo-plan.md
+site/house-totals*.json
+site/house-totals.json.bak*
+# backups and scratch
+*.bak*
+*.bak-*.*
+shot*.png
+m375.png
+site/dist/
+node_modules/

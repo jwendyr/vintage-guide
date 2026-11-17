@@ -1,0 +1,344 @@
+[
+ {
+  "id": "ruang-tamu-pojok-baca-craftsman",
+  "room": "Ruang Tamu",
+  "title": "Pojok Baca Lintas Era",
+  "items": [
+   "gustav-stickley-morris-chair-no-332-flat-arm",
+   "stiffel-futura-tension-pole-lamp-raymond-loewy-era",
+   "beardslee-schoolhouse-flush-mount-chicago-c1920"
+  ],
+  "why": "Satu Morris chair Stickley oak sebagai jangkar hangat, diterangi tiang lampu Futura 1950an — kontras era yang tetap ringan di dinding terang.",
+  "era": "1900an + 1950an",
+  "style": "Arts & Crafts + Mid-century",
+  "scale": "Kursi ±84×76 cm + tapak lampu ±25 cm → pojok ±1,6×1,6 m.",
+  "image": "img/combos/ruang-tamu-pojok-baca-craftsman.jpg",
+  "hotspots": [
+   {
+    "item": "gustav-stickley-morris-chair-no-332-flat-arm",
+    "x": 29,
+    "y": 52,
+    "w": 40,
+    "h": 60
+   },
+   {
+    "item": "stiffel-futura-tension-pole-lamp-raymond-loewy-era",
+    "x": 74,
+    "y": 40,
+    "w": 20,
+    "h": 75
+   },
+   {
+    "item": "beardslee-schoolhouse-flush-mount-chicago-c1920",
+    "x": 50,
+    "y": 11,
+    "w": 14,
+    "h": 20
+   }
+  ],
+  "house_style": "Craftsman Hemat"
+ },
+ {
+  "id": "ruang-kerja-studio-mcm",
+  "room": "Ruang Kerja",
+  "title": "Pojok Kerja MCM di Ruang Tamu",
+  "items": [
+   "eames-lounge-chair-670-ottoman-671-herman-miller",
+   "laurel-mushroom-lamp-model-257-richard-barr-1965",
+   "emeralite-no-8734-banker-s-lamp"
+  ],
+  "why": "Meja tulis kecil dengan banker's lamp Emeralite untuk kerja, lalu Eames + lampu jamur Laurel sebagai pojok baca; kayu hangat dan kuningan menyatukan dua era.",
+  "era": "1910an–1960an",
+  "style": "Mid-century modest + lampu periode",
+  "scale": "Rumah tanpa ruang kerja terpisah: pojok ±2×1,8 m di ruang tamu 4,3×4 m.",
+  "image": "img/combos/ruang-kerja-studio-mcm.jpg",
+  "hotspots": [
+   {
+    "item": "eames-lounge-chair-670-ottoman-671-herman-miller",
+    "x": 28,
+    "y": 60,
+    "w": 36,
+    "h": 52
+   },
+   {
+    "item": "laurel-mushroom-lamp-model-257-richard-barr-1965",
+    "x": 50,
+    "y": 40,
+    "w": 12,
+    "h": 55
+   },
+   {
+    "item": "emeralite-no-8734-banker-s-lamp",
+    "x": 91,
+    "y": 40,
+    "w": 13,
+    "h": 25
+   }
+  ],
+  "house_style": "Craftsman × MCM"
+ },
+ {
+  "id": "kamar-tidur-nakas-hemat-ruang",
+  "room": "Kamar Tidur",
+  "title": "Lampu Lengan Ayun di Kepala Ranjang",
+  "items": [
+   "hansen-swing-arm-lamp-george-w-hansen-1940s"
+  ],
+  "why": "Lampu dinding Hansen membebaskan nakas; cocok untuk kamar kecil yang terang dan minimal.",
+  "era": "1940an",
+  "style": "Modern klasik",
+  "scale": "Lengan ayun ±50–60 cm, terpasang di dinding → tanpa tapak lantai.",
+  "image": "img/combos/kamar-tidur-nakas-hemat-ruang.jpg",
+  "hotspots": [
+   {
+    "item": "hansen-swing-arm-lamp-george-w-hansen-1940s",
+    "x": 19,
+    "y": 26,
+    "w": 18,
+    "h": 30
+   }
+  ],
+  "house_style": "Craftsman × MCM"
+ },
+ {
+  "id": "ruang-makan-makan-berempat",
+  "room": "Ruang Makan",
+  "title": "Tulip di Bawah Saucer Pendant",
+  "items": [
+   "saarinen-tulip-dining-table-42-round-knoll",
+   "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th"
+  ],
+  "why": "Meja Tulip putih bulat yang ringan secara visual dengan pendant kuningan berlubang di atasnya.",
+  "era": "1950an",
+  "style": "Mid-century",
+  "scale": "Meja Ø107 cm → ruang makan 2,7×2,4 m (open ke dapur), kursi tetap bisa ditarik.",
+  "image": "img/combos/ruang-makan-makan-berempat.jpg",
+  "hotspots": [
+   {
+    "item": "saarinen-tulip-dining-table-42-round-knoll",
+    "x": 48,
+    "y": 75,
+    "w": 30,
+    "h": 40
+   },
+   {
+    "item": "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th",
+    "x": 48,
+    "y": 17,
+    "w": 26,
+    "h": 24
+   }
+  ],
+  "house_style": "Craftsman × MCM"
+ },
+ {
+  "id": "teras-luar-mesh-strap",
+  "room": "Teras/Luar",
+  "title": "Teras Depan Bungalow",
+  "items": [
+   "russell-woodard-sculptura-lounge-chair",
+   "brown-jordan-tamiami-patio-set",
+   "arroyo-craftsman-berkeley-bb-7-wall-mount"
+  ],
+  "why": "Mesh Woodard dan strap Tamiami sama-sama ringan dan tahan cuaca; cocok di bawah teras bertiang tapered khas Craftsman.",
+  "era": "1950an–1960an",
+  "style": "Outdoor mid-century",
+  "scale": "Sculptura ±83 cm lebar + meja Tamiami ±123 cm dengan 2 kursi → teras ~3×4 m.",
+  "image": "img/combos/teras-luar-mesh-strap.jpg",
+  "hotspots": [
+   {
+    "item": "russell-woodard-sculptura-lounge-chair",
+    "x": 25,
+    "y": 67,
+    "w": 32,
+    "h": 40
+   },
+   {
+    "item": "brown-jordan-tamiami-patio-set",
+    "x": 75,
+    "y": 64,
+    "w": 40,
+    "h": 40
+   },
+   {
+    "item": "arroyo-craftsman-berkeley-bb-7-wall-mount",
+    "x": 20,
+    "y": 15,
+    "w": 10,
+    "h": 20
+   }
+  ],
+  "house_style": "Craftsman Terang (Maximalist)"
+ },
+ {
+  "id": "ruang-tamu-settle-dan-tiang-lampu",
+  "room": "Ruang Tamu",
+  "title": "Settle & Lampu Apotek",
+  "items": [
+   "l-jg-stickley-settle-no-222-even-arm",
+   "chapman-adjustable-brass-pharmacy-floor-lamp",
+   "antique-heriz-rug-northwest-persia"
+  ],
+  "why": "Settle L&JG jadi sofa utama di ruang terang; lampu apotek kuningan Chapman yang ramping menambah lapisan era lain.",
+  "era": "1910an + mid-century",
+  "style": "Mission + brass klasik",
+  "scale": "Settle ±193×79 cm di dinding ≥2,2 m + lampu tapak ±25 cm → ruang tamu 4,3×4 m.",
+  "image": "img/combos/ruang-tamu-settle-dan-tiang-lampu.jpg",
+  "hotspots": [
+   {
+    "item": "l-jg-stickley-settle-no-222-even-arm",
+    "x": 72,
+    "y": 58,
+    "w": 44,
+    "h": 40
+   },
+   {
+    "item": "chapman-adjustable-brass-pharmacy-floor-lamp",
+    "x": 91,
+    "y": 52,
+    "w": 14,
+    "h": 60
+   },
+   {
+    "item": "antique-heriz-rug-northwest-persia",
+    "x": 60,
+    "y": 84,
+    "w": 60,
+    "h": 24
+   }
+  ],
+  "house_style": "Craftsman Hemat"
+ },
+ {
+  "id": "kamar-tidur-laci-tinggi-913",
+  "room": "Kamar Tidur",
+  "title": "Laci Stickley & Lampu Tripod",
+  "items": [
+   "gustav-stickley-chest-of-drawers-no-913",
+   "gerald-thurston-tripod-lamp-for-lightolier",
+   "antique-sarouk-rug-persia"
+  ],
+  "why": "Lemari laci oak tinggi diimbangi lampu tripod Thurston MCM di atasnya — satu kayu hangat, sisanya ringan.",
+  "era": "1910an + 1950an",
+  "style": "Arts & Crafts + Mid-century",
+  "scale": "Laci 91×51 cm, tinggi 130 cm → dinding sempit kamar 4,3×4 m.",
+  "image": "img/combos/kamar-tidur-laci-tinggi-913.jpg",
+  "hotspots": [
+   {
+    "item": "gustav-stickley-chest-of-drawers-no-913",
+    "x": 69,
+    "y": 48,
+    "w": 30,
+    "h": 56
+   },
+   {
+    "item": "gerald-thurston-tripod-lamp-for-lightolier",
+    "x": 62,
+    "y": 10,
+    "w": 14,
+    "h": 22
+   },
+   {
+    "item": "antique-sarouk-rug-persia",
+    "x": 69,
+    "y": 87,
+    "w": 44,
+    "h": 24
+   }
+  ],
+  "house_style": "Craftsman Hemat"
+ },
+ {
+  "id": "ruang-makan-kursi-mission",
+  "room": "Ruang Makan",
+  "title": "Kursi Mission & Lampu Bouillotte",
+  "items": [
+   "gustav-stickley-side-chair-no-353",
+   "stiffel-3-light-brass-candlestick-bouillotte-lamp",
+   "gerald-thurston-lightolier-5-arm-chandelier-1950s"
+  ],
+  "why": "Kursi rush Stickley mengelilingi meja putih sederhana; lampu bouillotte Stiffel di buffet kecil memberi kilau kuningan.",
+  "era": "1900an + mid-century",
+  "style": "Mission + klasik Amerika",
+  "scale": "4 kursi lebar 43 cm + meja bulat ±107 cm → ruang makan 2,7×2,4 m (open ke dapur).",
+  "image": "img/combos/ruang-makan-kursi-mission.jpg",
+  "hotspots": [
+   {
+    "item": "gustav-stickley-side-chair-no-353",
+    "x": 26,
+    "y": 68,
+    "w": 28,
+    "h": 58
+   },
+   {
+    "item": "stiffel-3-light-brass-candlestick-bouillotte-lamp",
+    "x": 17,
+    "y": 27,
+    "w": 12,
+    "h": 26
+   },
+   {
+    "item": "gerald-thurston-lightolier-5-arm-chandelier-1950s",
+    "x": 53,
+    "y": 10,
+    "w": 40,
+    "h": 20
+   }
+  ],
+  "house_style": "Gilded Age × Craftsman"
+ },
+ {
+  "id": "dapur-besi-cor-dan-pyrex",
+  "room": "Dapur",
+  "title": "Besi Cor & Pyrex",
+  "items": [
+   "griswold-no-8-777-large-block-logo-skillet",
+   "pyrex-butterprint-cinderella-bowls-441-444"
+  ],
+  "why": "Wajan Griswold di kompor dan Pyrex Butterprint di rak terbuka: dapur pakai-harian bergaya pertengahan abad.",
+  "era": "1930an–1960an",
+  "style": "Dapur vintage Amerika",
+  "scale": "Wajan 27 cm; mangkuk 15–27 cm bertumpuk di rak ±40 cm.",
+  "image": "img/combos/dapur-besi-cor-dan-pyrex.jpg",
+  "hotspots": [
+   {
+    "item": "griswold-no-8-777-large-block-logo-skillet",
+    "x": 58,
+    "y": 66,
+    "w": 23,
+    "h": 16
+   },
+   {
+    "item": "pyrex-butterprint-cinderella-bowls-441-444",
+    "x": 82,
+    "y": 61,
+    "w": 25,
+    "h": 35
+   }
+  ],
+  "house_style": "Craftsman Terang (Maximalist)"
+ },
+ {
+  "id": "teras-luar-kursi-radar",
+  "room": "Teras/Luar",
+  "title": "Kursi Radar di Teras",
+  "items": [
+   "salterini-radar-lounge-chair-tempestini"
+  ],
+  "why": "Sepasang kursi Radar besi tempa di antara tiang tapered — ringan secara visual, tahan cuaca.",
+  "era": "1950an",
+  "style": "Outdoor mid-century",
+  "scale": "2 kursi ±110×109 cm → butuh teras ±2,5×3 m; satu kursi saja bila teras lebih kecil.",
+  "image": "img/combos/teras-luar-kursi-radar.jpg",
+  "hotspots": [
+   {
+    "item": "salterini-radar-lounge-chair-tempestini",
+    "x": 28,
+    "y": 57,
+    "w": 32,
+    "h": 52
+   }
+  ],
+  "house_style": "Craftsman Terang (Maximalist)"
+ }
+]

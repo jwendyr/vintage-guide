@@ -1,0 +1,3066 @@
+[
+ {
+  "id": "p1-hemat-ct-ruang-tamu",
+  "room": "Ruang Tamu",
+  "title": "Ruang Tamu · Craftsman Terang · Hemat",
+  "items": [
+   "florence-knoll-sofa-1950s",
+   "lane-acclaim-coffee-table-900",
+   "vintage-penguin-paperbacks",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "tier": "hemat",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Tanpa Stickley: sofa Knoll ramping + meja kopi Lane Acclaim + Frame TV di Art Mode, kabel tersembunyi.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Ruang 13×14 ft; sofa ≤84\".",
+  "image": "img/combos/v5/v5-l-ct-hemat.jpg",
+  "hotspots": [
+   {
+    "item": "florence-knoll-sofa-1950s",
+    "x": 3,
+    "y": 47,
+    "w": 48,
+    "h": 38
+   },
+   {
+    "item": "lane-acclaim-coffee-table-900",
+    "x": 45,
+    "y": 60,
+    "w": 26,
+    "h": 30
+   },
+   {
+    "item": "samsung-frame-55-ls03he-2026",
+    "x": 93,
+    "y": 23,
+    "w": 7,
+    "h": 28
+   },
+   {
+    "item": "sonos-beam-gen-2",
+    "x": 92,
+    "y": 53,
+    "w": 8,
+    "h": 6
+   },
+   {
+    "item": "vintage-penguin-paperbacks",
+    "x": 51,
+    "y": 64,
+    "w": 10,
+    "h": 8
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 28,
+    "y": 88,
+    "w": 60,
+    "h": 12
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "florence-knoll-sofa-1950s": "Hemat: replika Knoll (lihat item).",
+   "samsung-frame-55-ls03he-2026": "Art Mode: lukisan Hudson River/Gilded Age dari Met Open Access."
+  },
+  "hardware": [],
+  "amenities": [
+   "Selimut lempar 1–2 (±$60)",
+   "Remote + panduan rumah (house manual) di meja (±$15)"
+  ],
+  "decor": [
+   "Focal point: TV/Frame di Art Mode atau perapian; sofa menghadap ke sana.",
+   "Rule of three: 3 objek di meja kopi (buku tumpuk, mangkuk, tanaman kecil) dengan tinggi berbeda.",
+   "Layering: jute/rug dasar + selimut + bantal 2 tekstur.",
+   "Lampu 3 level: plafon (ambient), lampu lantai (task), lampu kecil/lilin (accent) — semua 2700K.",
+   "Kabel: tanam di dinding atau raceway cat Alabaster.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "soltech-aspect-gen2",
+   "pacolo-book-safe-pride-prejudice",
+   "kpon-invisible-wireless-charger-c30",
+   "samsung-frame-55-ls03he-2026",
+   "sonos-beam-gen-2"
+  ]
+ },
+ {
+  "id": "p1-hemat-cm-ruang-tamu",
+  "room": "Ruang Tamu",
+  "title": "Ruang Tamu · Craftsman × MCM · Hemat",
+  "items": [
+   "florence-knoll-sofa-1950s",
+   "broyhill-brasilia-9-drawer-dresser-credenza",
+   "stiffel-futura-tension-pole-lamp-raymond-loewy-era",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "tier": "hemat",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Tier hemat untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/v5/v5-l-cm-hemat.jpg",
+  "hotspots": [
+   {
+    "item": "florence-knoll-sofa-1950s",
+    "x": 57,
+    "y": 51,
+    "w": 43,
+    "h": 38
+   },
+   {
+    "item": "broyhill-brasilia-9-drawer-dresser-credenza",
+    "x": 3,
+    "y": 51,
+    "w": 33,
+    "h": 27
+   },
+   {
+    "item": "stiffel-futura-tension-pole-lamp-raymond-loewy-era",
+    "x": 88,
+    "y": 47,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 5,
+    "y": 88,
+    "w": 70,
+    "h": 12
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "florence-knoll-sofa-1950s": "Sofa ramping kaki tinggi: duduk utama yang gak menelan ruangan kecil.",
+   "broyhill-brasilia-9-drawer-dresser-credenza": "Storage + permukaan styling; ikon MCM Amerika (Broyhill, NC).",
+   "stiffel-futura-tension-pole-lamp-raymond-loewy-era": "Task/ambient lighting vertikal tanpa makan lantai.",
+   "std-jute-rug-nuloom-ashli-5x8": "Karpet baru netral: tekstur alami, murah, aman buat pembeli."
+  },
+  "hardware": [
+   "hw-12-point-pressed-glass-doorknob-pair",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle",
+   "hw-cast-iron-floor-register-10x12"
+  ],
+  "amenities": [
+   "Selimut lempar 1–2 (±$60)",
+   "Remote + panduan rumah (house manual) di meja (±$15)"
+  ],
+  "decor": [
+   "Focal point: TV/Frame di Art Mode atau perapian; sofa menghadap ke sana.",
+   "Rule of three: 3 objek di meja kopi (buku tumpuk, mangkuk, tanaman kecil) dengan tinggi berbeda.",
+   "Layering: jute/rug dasar + selimut + bantal 2 tekstur.",
+   "Lampu 3 level: plafon (ambient), lampu lantai (task), lampu kecil/lilin (accent) — semua 2700K.",
+   "Kabel: tanam di dinding atau raceway cat Alabaster.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "soltech-aspect-gen2",
+   "pacolo-book-safe-pride-prejudice",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-hemat-ct-ruang-makan",
+  "room": "Ruang Makan",
+  "title": "Ruang Makan · Craftsman Terang · Hemat",
+  "items": [
+   "saarinen-tulip-dining-table-42-round-knoll",
+   "thonet-no-18-bentwood-chair",
+   "std-schoolhouse-satin-nickel-hd"
+  ],
+  "tier": "hemat",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Tier hemat untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/p1-hemat-ct-ruang-makan-v3.jpg",
+  "hotspots": [
+   {
+    "item": "saarinen-tulip-dining-table-42-round-knoll",
+    "x": 32,
+    "y": 57,
+    "w": 38,
+    "h": 35
+   },
+   {
+    "item": "thonet-no-18-bentwood-chair",
+    "x": 24,
+    "y": 55,
+    "w": 22,
+    "h": 42
+   },
+   {
+    "item": "std-schoolhouse-satin-nickel-hd",
+    "x": 45,
+    "y": 0,
+    "w": 12,
+    "h": 13
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "thonet-no-18-bentwood-chair": "Kursi bistro klasik: ringan, ramah ruang makan kecil.",
+   "stiffel-3-light-brass-candlestick-bouillotte-lamp": "Lampu meja di buffet = lapisan cahaya ketiga, brass berpatina."
+  },
+  "hardware": [
+   "hw-white-porcelain-doorknob-pair",
+   "hw-nickel-plated-oval-keyhole-escutcheon",
+   "hw-eastlake-cast-iron-ball-tip-hinge-3-5",
+   "hw-cast-iron-floor-register-10x12",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle"
+  ],
+  "amenities": [
+   "Taplak/placemat 4 (±$30)",
+   "Serbet kain 4 (±$20)"
+  ],
+  "decor": [
+   "Pendant tepat di tengah meja, 30–34\" di atas meja.",
+   "Centerpiece rendah (buah/bunga) agar tamu saling lihat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": []
+ },
+ {
+  "id": "p1-hemat-cm-ruang-makan",
+  "room": "Ruang Makan",
+  "title": "Ruang Makan · Craftsman × MCM · Hemat",
+  "items": [
+   "saarinen-tulip-dining-table-42-round-knoll",
+   "marcel-breuer-cesca-side-chair-knoll",
+   "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th",
+   "dansk-quistgaard-teak-ice-bucket",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "tier": "hemat",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Tier hemat untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina. Cesca replika (tanpa label) OK di tier Hemat. Tulip replika berkualitas.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/p1-hemat-cm-ruang-makan-v3.jpg",
+  "hotspots": [
+   {
+    "item": "saarinen-tulip-dining-table-42-round-knoll",
+    "x": 27,
+    "y": 53,
+    "w": 46,
+    "h": 38
+   },
+   {
+    "item": "marcel-breuer-cesca-side-chair-knoll",
+    "x": 16,
+    "y": 55,
+    "w": 25,
+    "h": 43
+   },
+   {
+    "item": "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th",
+    "x": 38,
+    "y": 0,
+    "w": 26,
+    "h": 30
+   },
+   {
+    "item": "dansk-quistgaard-teak-ice-bucket",
+    "x": 38,
+    "y": 47,
+    "w": 8,
+    "h": 10
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 0,
+    "y": 78,
+    "w": 96,
+    "h": 22
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "saarinen-tulip-dining-table-42-round-knoll": "Meja bundar 42\" — 4 orang, sirkulasi lega di ruang kecil.",
+   "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th": "Pendant di atas meja: titik fokus cahaya ruang makan.",
+   "marcel-breuer-cesca-side-chair-knoll": "Cane + chrome: ringan secara visual, nyambung ke satin nikel."
+  },
+  "hardware": [
+   "hw-12-point-pressed-glass-doorknob-pair",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle",
+   "hw-cast-iron-floor-register-10x12"
+  ],
+  "amenities": [
+   "Taplak/placemat 4 (±$30)",
+   "Serbet kain 4 (±$20)"
+  ],
+  "decor": [
+   "Pendant tepat di tengah meja, 30–34\" di atas meja.",
+   "Centerpiece rendah (buah/bunga) agar tamu saling lihat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ]
+ },
+ {
+  "id": "p1-hemat-ct-kamar-tidur",
+  "room": "Kamar Tidur",
+  "title": "Kamar Tidur · Craftsman Terang · Hemat",
+  "items": [
+   "jenny-lind-spool-bed-full",
+   "hansen-swing-arm-lamp-george-w-hansen-1940s",
+   "roseville-pine-cone-pottery",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "tier": "hemat",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Tier hemat untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/p1-hemat-ct-kamar-tidur-v3.jpg",
+  "hotspots": [
+   {
+    "item": "jenny-lind-spool-bed-full",
+    "x": 20,
+    "y": 41,
+    "w": 65,
+    "h": 55
+   },
+   {
+    "item": "hansen-swing-arm-lamp-george-w-hansen-1940s",
+    "x": 81,
+    "y": 27,
+    "w": 13,
+    "h": 13
+   },
+   {
+    "item": "roseville-pine-cone-pottery",
+    "x": 85,
+    "y": 54,
+    "w": 6,
+    "h": 8
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 4,
+    "y": 73,
+    "w": 82,
+    "h": 25
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "hansen-swing-arm-lamp-george-w-hansen-1940s": "Lampu baca samping ranjang (task) yang hemat permukaan nakas.",
+   "std-jute-rug-nuloom-ashli-5x8": "Karpet baru netral: tekstur alami, murah, aman buat pembeli."
+  },
+  "hardware": [
+   "hw-white-porcelain-doorknob-pair",
+   "hw-nickel-plated-oval-keyhole-escutcheon",
+   "hw-eastlake-cast-iron-ball-tip-hinge-3-5",
+   "hw-cast-iron-floor-register-10x12",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle"
+  ],
+  "amenities": [
+   "2 set sprei queen percale (±$150)",
+   "Pelindung kasur waterproof (±$40)",
+   "Tirai blackout + rel satin nickel (±$70)",
+   "Rak koper lipat (±$40)",
+   "Hanger kayu 20 (±$25)",
+   "Bantal cadangan 2 (±$50)"
+  ],
+  "decor": [
+   "Kepala ranjang = focal point; 2 lampu meja simetris.",
+   "Layering sprei putih + selimut tekstur + 2 bantal hias.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "sansi-br30-24w-grow-3000k",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-hemat-cm-kamar-tidur",
+  "room": "Kamar Tidur",
+  "title": "Kamar Tidur · Craftsman × MCM · Hemat",
+  "items": [
+   "broyhill-brasilia-headboard-full-queen",
+   "kai-kristiansen-model-394-chest-aksel-kjersgaard",
+   "charley-harper-ford-times-serigraph",
+   "saarinen-tulip-side-table-20-round-knoll",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "tier": "hemat",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Tier hemat untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/p1-hemat-cm-kamar-tidur-v2.jpg",
+  "hotspots": [
+   {
+    "item": "broyhill-brasilia-headboard-full-queen",
+    "x": 50.0,
+    "y": 38.0,
+    "w": 28,
+    "h": 24
+   },
+   {
+    "item": "kai-kristiansen-model-394-chest-aksel-kjersgaard",
+    "x": 13.0,
+    "y": 62.0,
+    "w": 24,
+    "h": 36
+   },
+   {
+    "item": "charley-harper-ford-times-serigraph",
+    "x": 15.0,
+    "y": 41.0,
+    "w": 20,
+    "h": 22
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "broyhill-brasilia-headboard-full-queen": "Headboard = titik fokus kamar; pasangan Brasilia.",
+   "kai-kristiansen-model-394-chest-aksel-kjersgaard": "Chest Danish teak: storage kompak berkelas.",
+   "charley-harper-ford-times-serigraph": "Seni Amerika MCM yang ceria & universal, gak terlalu personal."
+  },
+  "hardware": [
+   "hw-12-point-pressed-glass-doorknob-pair",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle",
+   "hw-cast-iron-floor-register-10x12"
+  ],
+  "amenities": [
+   "2 set sprei queen percale (±$150)",
+   "Pelindung kasur waterproof (±$40)",
+   "Tirai blackout + rel satin nickel (±$70)",
+   "Rak koper lipat (±$40)",
+   "Hanger kayu 20 (±$25)",
+   "Bantal cadangan 2 (±$50)"
+  ],
+  "decor": [
+   "Kepala ranjang = focal point; 2 lampu meja simetris.",
+   "Layering sprei putih + selimut tekstur + 2 bantal hias.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "sansi-br30-24w-grow-3000k",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-menengah-ct-ruang-tamu",
+  "room": "Ruang Tamu",
+  "title": "Ruang Tamu · Craftsman Terang · Menengah",
+  "items": [
+   "wegner-ge290-2-seat-sofa",
+   "saarinen-tulip-coffee-table-42",
+   "marantz-2230-receiver",
+   "klh-model-six-speakers",
+   "antique-heriz-rug-northwest-persia",
+   "chapman-adjustable-brass-pharmacy-floor-lamp"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Loveseat Wegner GE290 ramping + Tulip coffee + stereo vintage Marantz/KLH sebagai focal point audio.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Loveseat 2-dudukan untuk ruang kecil.",
+  "image": "img/combos/v5/v5-l-ct-men.jpg",
+  "hotspots": [
+   {
+    "item": "wegner-ge290-2-seat-sofa",
+    "x": 11,
+    "y": 50,
+    "w": 41,
+    "h": 38
+   },
+   {
+    "item": "saarinen-tulip-coffee-table-42",
+    "x": 46,
+    "y": 65,
+    "w": 30,
+    "h": 24
+   },
+   {
+    "item": "marantz-2230-receiver",
+    "x": 67,
+    "y": 48,
+    "w": 8,
+    "h": 5
+   },
+   {
+    "item": "klh-model-six-speakers",
+    "x": 62,
+    "y": 43,
+    "w": 20,
+    "h": 9
+   },
+   {
+    "item": "antique-heriz-rug-northwest-persia",
+    "x": 15,
+    "y": 89,
+    "w": 70,
+    "h": 11
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {},
+  "hardware": [],
+  "amenities": [
+   "Selimut lempar 1–2 (±$60)",
+   "Remote + panduan rumah (house manual) di meja (±$15)"
+  ],
+  "decor": [
+   "Focal point: TV/Frame di Art Mode atau perapian; sofa menghadap ke sana.",
+   "Rule of three: 3 objek di meja kopi (buku tumpuk, mangkuk, tanaman kecil) dengan tinggi berbeda.",
+   "Layering: jute/rug dasar + selimut + bantal 2 tekstur.",
+   "Lampu 3 level: plafon (ambient), lampu lantai (task), lampu kecil/lilin (accent) — semua 2700K.",
+   "Kabel: tanam di dinding atau raceway cat Alabaster.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "soltech-aspect-gen2",
+   "pacolo-book-safe-pride-prejudice",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-menengah-cm-ruang-tamu",
+  "room": "Ruang Tamu",
+  "title": "Ruang Tamu · Craftsman × MCM · Menengah",
+  "items": [
+   "florence-knoll-sofa-1950s",
+   "broyhill-brasilia-9-drawer-dresser-credenza",
+   "saarinen-tulip-side-table-20-round-knoll",
+   "stiffel-futura-tension-pole-lamp-raymond-loewy-era",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Tier menengah untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/v5/v5-l-cm-men.jpg",
+  "hotspots": [
+   {
+    "item": "florence-knoll-sofa-1950s",
+    "x": 9,
+    "y": 48,
+    "w": 50,
+    "h": 38
+   },
+   {
+    "item": "broyhill-brasilia-9-drawer-dresser-credenza",
+    "x": 62,
+    "y": 50,
+    "w": 25,
+    "h": 17
+   },
+   {
+    "item": "saarinen-tulip-side-table-20-round-knoll",
+    "x": 0,
+    "y": 64,
+    "w": 17,
+    "h": 27
+   },
+   {
+    "item": "stiffel-futura-tension-pole-lamp-raymond-loewy-era",
+    "x": 49,
+    "y": 21,
+    "w": 10,
+    "h": 34
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 10,
+    "y": 88,
+    "w": 80,
+    "h": 12
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "florence-knoll-sofa-1950s": "Sofa ramping kaki tinggi: duduk utama yang gak menelan ruangan kecil.",
+   "broyhill-brasilia-9-drawer-dresser-credenza": "Storage + permukaan styling; ikon MCM Amerika (Broyhill, NC).",
+   "stiffel-futura-tension-pole-lamp-raymond-loewy-era": "Task/ambient lighting vertikal tanpa makan lantai.",
+   "std-jute-rug-nuloom-ashli-5x8": "Karpet baru netral: tekstur alami, murah, aman buat pembeli."
+  },
+  "hardware": [
+   "hw-12-point-pressed-glass-doorknob-pair",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle",
+   "hw-cast-iron-floor-register-10x12"
+  ],
+  "amenities": [
+   "Selimut lempar 1–2 (±$60)",
+   "Remote + panduan rumah (house manual) di meja (±$15)"
+  ],
+  "decor": [
+   "Focal point: TV/Frame di Art Mode atau perapian; sofa menghadap ke sana.",
+   "Rule of three: 3 objek di meja kopi (buku tumpuk, mangkuk, tanaman kecil) dengan tinggi berbeda.",
+   "Layering: jute/rug dasar + selimut + bantal 2 tekstur.",
+   "Lampu 3 level: plafon (ambient), lampu lantai (task), lampu kecil/lilin (accent) — semua 2700K.",
+   "Kabel: tanam di dinding atau raceway cat Alabaster.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "soltech-aspect-gen2",
+   "pacolo-book-safe-pride-prejudice",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-menengah-ct-ruang-makan",
+  "room": "Ruang Makan",
+  "title": "Ruang Makan · Craftsman Terang · Menengah",
+  "items": [
+   "saarinen-tulip-dining-table-42-round-knoll",
+   "thonet-no-18-bentwood-chair",
+   "std-schoolhouse-satin-nickel-hd",
+   "dansk-quistgaard-teak-ice-bucket",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Tanpa Stickley: Tulip 42\" + 4 Thonet No.18 – ringan untuk nook kecil.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/v5/v5-d-ct.jpg",
+  "hotspots": [
+   {
+    "item": "saarinen-tulip-dining-table-42-round-knoll",
+    "x": 28,
+    "y": 50,
+    "w": 47,
+    "h": 38
+   },
+   {
+    "item": "thonet-no-18-bentwood-chair",
+    "x": 18,
+    "y": 47,
+    "w": 23,
+    "h": 52
+   },
+   {
+    "item": "std-schoolhouse-satin-nickel-hd",
+    "x": 45,
+    "y": 0,
+    "w": 13,
+    "h": 20
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {},
+  "hardware": [
+   "hw-white-porcelain-doorknob-pair",
+   "hw-nickel-plated-oval-keyhole-escutcheon",
+   "hw-eastlake-cast-iron-ball-tip-hinge-3-5",
+   "hw-cast-iron-floor-register-10x12",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle"
+  ],
+  "amenities": [
+   "Taplak/placemat 4 (±$30)",
+   "Serbet kain 4 (±$20)"
+  ],
+  "decor": [
+   "Pendant tepat di tengah meja, 30–34\" di atas meja.",
+   "Centerpiece rendah (buah/bunga) agar tamu saling lihat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": []
+ },
+ {
+  "id": "p1-menengah-cm-ruang-makan",
+  "room": "Ruang Makan",
+  "title": "Ruang Makan · Craftsman × MCM · Menengah",
+  "items": [
+   "saarinen-tulip-dining-table-42-round-knoll",
+   "hans-wegner-ch24-wishbone-chair-set-4",
+   "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th",
+   "dansk-quistgaard-teak-ice-bucket",
+   "baldwin-brass-candlesticks-pair",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Tier menengah untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina. Tulip replika berkualitas OK; Cesca berlabel Knoll.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/p1-menengah-cm-ruang-makan-v3.jpg",
+  "hotspots": [
+   {
+    "item": "saarinen-tulip-dining-table-42-round-knoll",
+    "x": 26,
+    "y": 54,
+    "w": 46,
+    "h": 38
+   },
+   {
+    "item": "hans-wegner-ch24-wishbone-chair-set-4",
+    "x": 16,
+    "y": 59,
+    "w": 24,
+    "h": 40
+   },
+   {
+    "item": "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th",
+    "x": 39,
+    "y": 0,
+    "w": 22,
+    "h": 31
+   },
+   {
+    "item": "dansk-quistgaard-teak-ice-bucket",
+    "x": 37,
+    "y": 49,
+    "w": 8,
+    "h": 10
+   },
+   {
+    "item": "baldwin-brass-candlesticks-pair",
+    "x": 44,
+    "y": 47,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 0,
+    "y": 80,
+    "w": 90,
+    "h": 20
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "saarinen-tulip-dining-table-42-round-knoll": "Meja bundar 42\" — 4 orang, sirkulasi lega di ruang kecil.",
+   "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th": "Pendant di atas meja: titik fokus cahaya ruang makan."
+  },
+  "hardware": [
+   "hw-12-point-pressed-glass-doorknob-pair",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle",
+   "hw-cast-iron-floor-register-10x12"
+  ],
+  "amenities": [
+   "Taplak/placemat 4 (±$30)",
+   "Serbet kain 4 (±$20)"
+  ],
+  "decor": [
+   "Pendant tepat di tengah meja, 30–34\" di atas meja.",
+   "Centerpiece rendah (buah/bunga) agar tamu saling lihat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ]
+ },
+ {
+  "id": "p1-menengah-ct-kamar-tidur",
+  "room": "Kamar Tidur",
+  "title": "Kamar Tidur · Craftsman Terang · Menengah",
+  "items": [
+   "jenny-lind-spool-bed-full",
+   "hansen-swing-arm-lamp-george-w-hansen-1940s",
+   "eastlake-walnut-marble-top-parlor-table",
+   "roseville-pine-cone-pottery",
+   "antique-sarouk-rug-persia"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Tier menengah untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/p1-menengah-ct-kamar-tidur-v3.jpg",
+  "hotspots": [
+   {
+    "item": "jenny-lind-spool-bed-full",
+    "x": 14,
+    "y": 37,
+    "w": 66,
+    "h": 58
+   },
+   {
+    "item": "hansen-swing-arm-lamp-george-w-hansen-1940s",
+    "x": 81,
+    "y": 24,
+    "w": 11,
+    "h": 14
+   },
+   {
+    "item": "eastlake-walnut-marble-top-parlor-table",
+    "x": 76,
+    "y": 52,
+    "w": 22,
+    "h": 29
+   },
+   {
+    "item": "roseville-pine-cone-pottery",
+    "x": 82,
+    "y": 42,
+    "w": 5,
+    "h": 7
+   },
+   {
+    "item": "antique-sarouk-rug-persia",
+    "x": 0,
+    "y": 74,
+    "w": 90,
+    "h": 26
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "antique-sarouk-rug-persia": "Karpet Persia merah-hangat: membumikan kamar & menambah warna.",
+   "hansen-swing-arm-lamp-george-w-hansen-1940s": "Lampu baca samping ranjang (task) yang hemat permukaan nakas.",
+   "roseville-pine-cone-pottery": "Tembikar Ohio ikonik; motif alam, aksen koleksi.",
+   "eastlake-walnut-marble-top-parlor-table": "Meja Victorian kecil: lapisan era lebih tua, marmer bikin terasa 'collected'."
+  },
+  "hardware": [
+   "hw-white-porcelain-doorknob-pair",
+   "hw-nickel-plated-oval-keyhole-escutcheon",
+   "hw-eastlake-cast-iron-ball-tip-hinge-3-5",
+   "hw-cast-iron-floor-register-10x12",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle"
+  ],
+  "amenities": [
+   "2 set sprei queen percale (±$150)",
+   "Pelindung kasur waterproof (±$40)",
+   "Tirai blackout + rel satin nickel (±$70)",
+   "Rak koper lipat (±$40)",
+   "Hanger kayu 20 (±$25)",
+   "Bantal cadangan 2 (±$50)"
+  ],
+  "decor": [
+   "Kepala ranjang = focal point; 2 lampu meja simetris.",
+   "Layering sprei putih + selimut tekstur + 2 bantal hias.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "sansi-br30-24w-grow-3000k",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-menengah-cm-kamar-tidur",
+  "room": "Kamar Tidur",
+  "title": "Kamar Tidur · Craftsman × MCM · Menengah",
+  "items": [
+   "broyhill-brasilia-headboard-full-queen",
+   "kai-kristiansen-model-394-chest-aksel-kjersgaard",
+   "gerald-thurston-tripod-lamp-for-lightolier",
+   "charley-harper-ford-times-serigraph",
+   "saarinen-tulip-side-table-20-round-knoll"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Tier menengah untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/p1-menengah-cm-kamar-tidur-v2.jpg",
+  "hotspots": [
+   {
+    "item": "broyhill-brasilia-headboard-full-queen",
+    "x": 50.0,
+    "y": 38.0,
+    "w": 28,
+    "h": 24
+   },
+   {
+    "item": "kai-kristiansen-model-394-chest-aksel-kjersgaard",
+    "x": 13.0,
+    "y": 64.0,
+    "w": 24,
+    "h": 36
+   },
+   {
+    "item": "gerald-thurston-tripod-lamp-for-lightolier",
+    "x": 17.0,
+    "y": 50.0,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "item": "charley-harper-ford-times-serigraph",
+    "x": 15.0,
+    "y": 41.0,
+    "w": 20,
+    "h": 22
+   },
+   {
+    "item": "saarinen-tulip-side-table-20-round-knoll",
+    "x": 38.0,
+    "y": 76,
+    "w": 14,
+    "h": 24
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "broyhill-brasilia-headboard-full-queen": "Headboard = titik fokus kamar; pasangan Brasilia.",
+   "kai-kristiansen-model-394-chest-aksel-kjersgaard": "Chest Danish teak: storage kompak berkelas.",
+   "gerald-thurston-tripod-lamp-for-lightolier": "Lampu meja/lantai MCM: lapisan cahaya hangat.",
+   "charley-harper-ford-times-serigraph": "Seni Amerika MCM yang ceria & universal, gak terlalu personal.",
+   "saarinen-tulip-side-table-20-round-knoll": "Nakas bundar ramping, gak berat di kamar kecil."
+  },
+  "hardware": [
+   "hw-12-point-pressed-glass-doorknob-pair",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle",
+   "hw-cast-iron-floor-register-10x12"
+  ],
+  "amenities": [
+   "2 set sprei queen percale (±$150)",
+   "Pelindung kasur waterproof (±$40)",
+   "Tirai blackout + rel satin nickel (±$70)",
+   "Rak koper lipat (±$40)",
+   "Hanger kayu 20 (±$25)",
+   "Bantal cadangan 2 (±$50)"
+  ],
+  "decor": [
+   "Kepala ranjang = focal point; 2 lampu meja simetris.",
+   "Layering sprei putih + selimut tekstur + 2 bantal hias.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "sansi-br30-24w-grow-3000k",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-premium-ct-ruang-tamu",
+  "room": "Ruang Tamu",
+  "title": "Ruang Tamu · Craftsman Terang · Premium",
+  "items": [
+   "florence-knoll-sofa-1950s",
+   "noguchi-in-50-coffee-table",
+   "samsung-frame-55-ls03he-2026",
+   "sonos-beam-gen-2",
+   "van-briggle-persian-rose-pottery"
+  ],
+  "tier": "premium",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Knoll + Noguchi IN-50 + Frame di atas perapian (kabel di dalam dinding). Sonos Beam di bawah TV (tidak terlihat di ilustrasi).",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Ruang 13×14 ft.",
+  "image": "img/combos/v5/v5-l-ct-prem.jpg",
+  "hotspots": [
+   {
+    "item": "florence-knoll-sofa-1950s",
+    "x": 2,
+    "y": 48,
+    "w": 48,
+    "h": 38
+   },
+   {
+    "item": "noguchi-in-50-coffee-table",
+    "x": 38,
+    "y": 64,
+    "w": 31,
+    "h": 24
+   },
+   {
+    "item": "samsung-frame-55-ls03he-2026",
+    "x": 60,
+    "y": 19,
+    "w": 18,
+    "h": 17
+   },
+   {
+    "item": "van-briggle-persian-rose-pottery",
+    "x": 52,
+    "y": 63,
+    "w": 6,
+    "h": 7
+   },
+   {
+    "item": "sonos-beam-gen-2",
+    "x": 62,
+    "y": 36,
+    "w": 15,
+    "h": 4
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "samsung-frame-55-ls03he-2026": "Art Mode: lukisan Hudson River/Gilded Age dari Met Open Access."
+  },
+  "hardware": [],
+  "amenities": [
+   "Selimut lempar 1–2 (±$60)",
+   "Remote + panduan rumah (house manual) di meja (±$15)"
+  ],
+  "decor": [
+   "Focal point: TV/Frame di Art Mode atau perapian; sofa menghadap ke sana.",
+   "Rule of three: 3 objek di meja kopi (buku tumpuk, mangkuk, tanaman kecil) dengan tinggi berbeda.",
+   "Layering: jute/rug dasar + selimut + bantal 2 tekstur.",
+   "Lampu 3 level: plafon (ambient), lampu lantai (task), lampu kecil/lilin (accent) — semua 2700K.",
+   "Kabel: tanam di dinding atau raceway cat Alabaster.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "soltech-aspect-gen2",
+   "pacolo-book-safe-pride-prejudice",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-premium-cm-ruang-tamu",
+  "room": "Ruang Tamu",
+  "title": "Ruang Tamu · Craftsman × MCM · Premium",
+  "items": [
+   "eames-lounge-chair-670-ottoman-671-herman-miller",
+   "florence-knoll-sofa-1950s",
+   "broyhill-brasilia-9-drawer-dresser-credenza",
+   "lane-acclaim-dovetail-end-table",
+   "laurel-mushroom-lamp-model-257-richard-barr-1965",
+   "louis-xv-style-giltwood-overmantel-mirror",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "tier": "premium",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Tier premium untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/v5/v5-l-cm-prem.jpg",
+  "hotspots": [
+   {
+    "item": "eames-lounge-chair-670-ottoman-671-herman-miller",
+    "x": 0,
+    "y": 53,
+    "w": 45,
+    "h": 42
+   },
+   {
+    "item": "florence-knoll-sofa-1950s",
+    "x": 28,
+    "y": 45,
+    "w": 42,
+    "h": 25
+   },
+   {
+    "item": "broyhill-brasilia-9-drawer-dresser-credenza",
+    "x": 71,
+    "y": 46,
+    "w": 28,
+    "h": 29
+   },
+   {
+    "item": "lane-acclaim-dovetail-end-table",
+    "x": 44,
+    "y": 61,
+    "w": 30,
+    "h": 22
+   },
+   {
+    "item": "laurel-mushroom-lamp-model-257-richard-barr-1965",
+    "x": 73,
+    "y": 37,
+    "w": 8,
+    "h": 10
+   },
+   {
+    "item": "louis-xv-style-giltwood-overmantel-mirror",
+    "x": 82,
+    "y": 14,
+    "w": 13,
+    "h": 30
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 10,
+    "y": 90,
+    "w": 80,
+    "h": 10
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "eames-lounge-chair-670-ottoman-671-herman-miller": "Kursi paling ikonik Amerika — hero piece ruang tamu.",
+   "florence-knoll-sofa-1950s": "Sofa ramping kaki tinggi: duduk utama yang gak menelan ruangan kecil.",
+   "broyhill-brasilia-9-drawer-dresser-credenza": "Storage + permukaan styling; ikon MCM Amerika (Broyhill, NC).",
+   "lane-acclaim-dovetail-end-table": "Side table di samping duduk — tempat lampu meja & minum.",
+   "laurel-mushroom-lamp-model-257-richard-barr-1965": "Lampu meja mushroom: cahaya hangat level mata.",
+   "louis-xv-style-giltwood-overmantel-mirror": "Cermin gilt di atas perapian/konsol: fokus & pantulan cahaya.",
+   "std-jute-rug-nuloom-ashli-5x8": "Karpet baru netral: tekstur alami, murah, aman buat pembeli."
+  },
+  "hardware": [
+   "hw-12-point-pressed-glass-doorknob-pair",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle",
+   "hw-cast-iron-floor-register-10x12"
+  ],
+  "amenities": [
+   "Selimut lempar 1–2 (±$60)",
+   "Remote + panduan rumah (house manual) di meja (±$15)"
+  ],
+  "decor": [
+   "Focal point: TV/Frame di Art Mode atau perapian; sofa menghadap ke sana.",
+   "Rule of three: 3 objek di meja kopi (buku tumpuk, mangkuk, tanaman kecil) dengan tinggi berbeda.",
+   "Layering: jute/rug dasar + selimut + bantal 2 tekstur.",
+   "Lampu 3 level: plafon (ambient), lampu lantai (task), lampu kecil/lilin (accent) — semua 2700K.",
+   "Kabel: tanam di dinding atau raceway cat Alabaster.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "soltech-aspect-gen2",
+   "pacolo-book-safe-pride-prejudice",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-premium-ct-ruang-makan",
+  "room": "Ruang Makan",
+  "title": "Ruang Makan · Craftsman Terang · Premium",
+  "items": [
+   "saarinen-tulip-dining-table-42-round-knoll",
+   "thonet-no-18-bentwood-chair",
+   "std-schoolhouse-satin-nickel-hd",
+   "stiffel-3-light-brass-candlestick-bouillotte-lamp",
+   "dansk-quistgaard-teak-ice-bucket",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "tier": "premium",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Tanpa Stickley: Tulip 42\" + 4 Thonet No.18 – ringan untuk nook kecil.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/v5/v5-d-ct.jpg",
+  "hotspots": [
+   {
+    "item": "saarinen-tulip-dining-table-42-round-knoll",
+    "x": 28,
+    "y": 50,
+    "w": 47,
+    "h": 38
+   },
+   {
+    "item": "thonet-no-18-bentwood-chair",
+    "x": 18,
+    "y": 47,
+    "w": 23,
+    "h": 52
+   },
+   {
+    "item": "std-schoolhouse-satin-nickel-hd",
+    "x": 45,
+    "y": 0,
+    "w": 13,
+    "h": 20
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {},
+  "hardware": [
+   "hw-white-porcelain-doorknob-pair",
+   "hw-nickel-plated-oval-keyhole-escutcheon",
+   "hw-eastlake-cast-iron-ball-tip-hinge-3-5",
+   "hw-cast-iron-floor-register-10x12",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle"
+  ],
+  "amenities": [
+   "Taplak/placemat 4 (±$30)",
+   "Serbet kain 4 (±$20)"
+  ],
+  "decor": [
+   "Pendant tepat di tengah meja, 30–34\" di atas meja.",
+   "Centerpiece rendah (buah/bunga) agar tamu saling lihat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": []
+ },
+ {
+  "id": "p1-premium-cm-ruang-makan",
+  "room": "Ruang Makan",
+  "title": "Ruang Makan · Craftsman × MCM · Premium",
+  "items": [
+   "saarinen-tulip-dining-table-42-round-knoll",
+   "marcel-breuer-cesca-side-chair-knoll",
+   "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th",
+   "louis-xv-style-giltwood-overmantel-mirror",
+   "dansk-quistgaard-teak-ice-bucket",
+   "antique-sarouk-rug-persia"
+  ],
+  "tier": "premium",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Tier premium untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/p1-premium-cm-ruang-makan-v3.jpg",
+  "hotspots": [
+   {
+    "item": "saarinen-tulip-dining-table-42-round-knoll",
+    "x": 27,
+    "y": 55,
+    "w": 45,
+    "h": 36
+   },
+   {
+    "item": "marcel-breuer-cesca-side-chair-knoll",
+    "x": 17,
+    "y": 58,
+    "w": 24,
+    "h": 40
+   },
+   {
+    "item": "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th",
+    "x": 39,
+    "y": 0,
+    "w": 22,
+    "h": 33
+   },
+   {
+    "item": "louis-xv-style-giltwood-overmantel-mirror",
+    "x": 11,
+    "y": 13,
+    "w": 13,
+    "h": 32
+   },
+   {
+    "item": "dansk-quistgaard-teak-ice-bucket",
+    "x": 39,
+    "y": 50,
+    "w": 7,
+    "h": 8
+   },
+   {
+    "item": "antique-sarouk-rug-persia",
+    "x": 0,
+    "y": 78,
+    "w": 98,
+    "h": 22
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "saarinen-tulip-dining-table-42-round-knoll": "Meja bundar 42\" — 4 orang, sirkulasi lega di ruang kecil.",
+   "marcel-breuer-cesca-side-chair-knoll": "Cane + chrome: ringan secara visual, nyambung ke satin nikel.",
+   "lightolier-saucer-pendant-pierced-brass-cones-gaya-gerald-th": "Pendant di atas meja: titik fokus cahaya ruang makan.",
+   "louis-xv-style-giltwood-overmantel-mirror": "Cermin gilt di atas perapian/konsol: fokus & pantulan cahaya."
+  },
+  "hardware": [
+   "hw-12-point-pressed-glass-doorknob-pair",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle",
+   "hw-cast-iron-floor-register-10x12"
+  ],
+  "amenities": [
+   "Taplak/placemat 4 (±$30)",
+   "Serbet kain 4 (±$20)"
+  ],
+  "decor": [
+   "Pendant tepat di tengah meja, 30–34\" di atas meja.",
+   "Centerpiece rendah (buah/bunga) agar tamu saling lihat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ]
+ },
+ {
+  "id": "p1-premium-ct-kamar-tidur",
+  "room": "Kamar Tidur",
+  "title": "Kamar Tidur · Craftsman Terang · Premium",
+  "items": [
+   "gustav-stickley-bed-no-923",
+   "gerald-thurston-tripod-lamp-for-lightolier",
+   "saarinen-tulip-side-table-20-round-knoll",
+   "roseville-pine-cone-pottery",
+   "renaissance-revival-giltwood-pier-mirror",
+   "antique-sarouk-rug-persia"
+  ],
+  "tier": "premium",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Tier premium untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/p1-premium-ct-kamar-tidur-v3.jpg",
+  "hotspots": [
+   {
+    "item": "gustav-stickley-bed-no-923",
+    "x": 18,
+    "y": 42,
+    "w": 58,
+    "h": 52
+   },
+   {
+    "item": "gerald-thurston-tripod-lamp-for-lightolier",
+    "x": 75,
+    "y": 38,
+    "w": 10,
+    "h": 24
+   },
+   {
+    "item": "saarinen-tulip-side-table-20-round-knoll",
+    "x": 74,
+    "y": 59,
+    "w": 13,
+    "h": 18
+   },
+   {
+    "item": "roseville-pine-cone-pottery",
+    "x": 80,
+    "y": 55,
+    "w": 4,
+    "h": 6
+   },
+   {
+    "item": "renaissance-revival-giltwood-pier-mirror",
+    "x": 15,
+    "y": 19,
+    "w": 8,
+    "h": 23
+   },
+   {
+    "item": "antique-sarouk-rug-persia",
+    "x": 0,
+    "y": 74,
+    "w": 90,
+    "h": 26
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "gerald-thurston-tripod-lamp-for-lightolier": "Lampu meja/lantai MCM: lapisan cahaya hangat.",
+   "antique-sarouk-rug-persia": "Karpet Persia merah-hangat: membumikan kamar & menambah warna.",
+   "roseville-pine-cone-pottery": "Tembikar Ohio ikonik; motif alam, aksen koleksi.",
+   "renaissance-revival-giltwood-pier-mirror": "Cermin gilt: memantulkan cahaya, ruangan terasa lebih besar."
+  },
+  "hardware": [
+   "hw-white-porcelain-doorknob-pair",
+   "hw-nickel-plated-oval-keyhole-escutcheon",
+   "hw-eastlake-cast-iron-ball-tip-hinge-3-5",
+   "hw-cast-iron-floor-register-10x12",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle"
+  ],
+  "amenities": [
+   "2 set sprei queen percale (±$150)",
+   "Pelindung kasur waterproof (±$40)",
+   "Tirai blackout + rel satin nickel (±$70)",
+   "Rak koper lipat (±$40)",
+   "Hanger kayu 20 (±$25)",
+   "Bantal cadangan 2 (±$50)"
+  ],
+  "decor": [
+   "Kepala ranjang = focal point; 2 lampu meja simetris.",
+   "Layering sprei putih + selimut tekstur + 2 bantal hias.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "sansi-br30-24w-grow-3000k",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-premium-cm-kamar-tidur",
+  "room": "Kamar Tidur",
+  "title": "Kamar Tidur · Craftsman × MCM · Premium",
+  "items": [
+   "broyhill-brasilia-headboard-full-queen",
+   "kai-kristiansen-model-394-chest-aksel-kjersgaard",
+   "saarinen-tulip-side-table-20-round-knoll",
+   "gerald-thurston-tripod-lamp-for-lightolier",
+   "charley-harper-ford-times-serigraph",
+   "van-briggle-persian-rose-pottery",
+   "antique-sarouk-rug-persia"
+  ],
+  "tier": "premium",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Tier premium untuk staging jual: Alabaster, trim terang, hardware satin nickel + piece lepas brass berpatina.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Lihat catatan skala tiap item.",
+  "image": "img/combos/v5/v5-bd-cm-prem.jpg",
+  "hotspots": [
+   {
+    "item": "broyhill-brasilia-headboard-full-queen",
+    "x": 59,
+    "y": 38,
+    "w": 30,
+    "h": 22
+   },
+   {
+    "item": "kai-kristiansen-model-394-chest-aksel-kjersgaard",
+    "x": 0,
+    "y": 50,
+    "w": 22,
+    "h": 26
+   },
+   {
+    "item": "saarinen-tulip-side-table-20-round-knoll",
+    "x": 86,
+    "y": 60,
+    "w": 13,
+    "h": 22
+   },
+   {
+    "item": "gerald-thurston-tripod-lamp-for-lightolier",
+    "x": 87,
+    "y": 38,
+    "w": 11,
+    "h": 22
+   },
+   {
+    "item": "charley-harper-ford-times-serigraph",
+    "x": 1,
+    "y": 23,
+    "w": 12,
+    "h": 18
+   },
+   {
+    "item": "van-briggle-persian-rose-pottery",
+    "x": 8,
+    "y": 45,
+    "w": 5,
+    "h": 5
+   },
+   {
+    "item": "antique-sarouk-rug-persia",
+    "x": 3,
+    "y": 77,
+    "w": 90,
+    "h": 23
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "broyhill-brasilia-headboard-full-queen": "Headboard = titik fokus kamar; pasangan Brasilia.",
+   "kai-kristiansen-model-394-chest-aksel-kjersgaard": "Chest Danish teak: storage kompak berkelas.",
+   "saarinen-tulip-side-table-20-round-knoll": "Nakas bundar ramping, gak berat di kamar kecil.",
+   "gerald-thurston-tripod-lamp-for-lightolier": "Lampu meja/lantai MCM: lapisan cahaya hangat.",
+   "charley-harper-ford-times-serigraph": "Seni Amerika MCM yang ceria & universal, gak terlalu personal.",
+   "van-briggle-persian-rose-pottery": "Tembikar Art Pottery Colorado — aksen Arts & Crafts, isi rule of three di meja.",
+   "antique-sarouk-rug-persia": "Karpet Persia merah-hangat: membumikan kamar & menambah warna."
+  },
+  "hardware": [
+   "hw-12-point-pressed-glass-doorknob-pair",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle",
+   "hw-cast-iron-floor-register-10x12"
+  ],
+  "amenities": [
+   "2 set sprei queen percale (±$150)",
+   "Pelindung kasur waterproof (±$40)",
+   "Tirai blackout + rel satin nickel (±$70)",
+   "Rak koper lipat (±$40)",
+   "Hanger kayu 20 (±$25)",
+   "Bantal cadangan 2 (±$50)"
+  ],
+  "decor": [
+   "Kepala ranjang = focal point; 2 lampu meja simetris.",
+   "Layering sprei putih + selimut tekstur + 2 bantal hias.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "sansi-br30-24w-grow-3000k",
+   "kpon-invisible-wireless-charger-c30"
+  ]
+ },
+ {
+  "id": "p1-menengah-ct-entry",
+  "room": "Entry",
+  "title": "Entry · Craftsman Terang · Menengah",
+  "items": [
+   "thonet-bentwood-standing-coat-stand",
+   "renaissance-revival-giltwood-pier-mirror",
+   "van-briggle-persian-rose-pottery",
+   "beardslee-schoolhouse-flush-mount-chicago-c1920",
+   "std-jute-rug-nuloom-ashli-5x8",
+   "yale-assure-lock-2-wifi-satin-nickel",
+   "ring-battery-doorbell"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Entry kecil untuk staging jual: gantungan jaket, cermin, mangkuk kunci, runner jute.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Entry ±4×6 ft.",
+  "image": "img/combos/v5/v5-e-ct.jpg",
+  "hotspots": [
+   {
+    "item": "thonet-bentwood-standing-coat-stand",
+    "x": 61,
+    "y": 27,
+    "w": 16,
+    "h": 49
+   },
+   {
+    "item": "renaissance-revival-giltwood-pier-mirror",
+    "x": 1,
+    "y": 13,
+    "w": 9,
+    "h": 37
+   },
+   {
+    "item": "van-briggle-persian-rose-pottery",
+    "x": 88,
+    "y": 26,
+    "w": 10,
+    "h": 12
+   },
+   {
+    "item": "beardslee-schoolhouse-flush-mount-chicago-c1920",
+    "x": 42,
+    "y": 1,
+    "w": 17,
+    "h": 11
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 24,
+    "y": 77,
+    "w": 52,
+    "h": 23
+   },
+   {
+    "item": "yale-assure-lock-2-wifi-satin-nickel",
+    "x": 38,
+    "y": 46,
+    "w": 4,
+    "h": 6
+   },
+   {
+    "item": "ring-battery-doorbell",
+    "x": 45,
+    "y": 22,
+    "w": 8,
+    "h": 8
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "thonet-bentwood-standing-coat-stand": "Gantungan jaket iconic, dipindah dari ruang tamu ke entry."
+  },
+  "hardware": [
+   "hw-white-porcelain-doorknob-pair",
+   "hw-nickel-plated-oval-keyhole-escutcheon",
+   "hw-eastlake-cast-iron-ball-tip-hinge-3-5",
+   "hw-cast-iron-floor-register-10x12",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle"
+  ],
+  "amenities": [],
+  "decor": [
+   "SENI & TECH: bingkai di dinding atau 2–3 bingkai bertumpuk di rak/konsol; tidak ada yang ditumpuk di lantai; charger/kabel di keranjang."
+  ]
+ },
+ {
+  "id": "p1-menengah-cm-entry",
+  "room": "Entry",
+  "title": "Entry · Craftsman × MCM · Menengah",
+  "items": [
+   "eames-hang-it-all-tigrett-1953",
+   "louis-xv-style-giltwood-overmantel-mirror",
+   "dansk-quistgaard-teak-ice-bucket",
+   "std-schoolhouse-satin-nickel-hd",
+   "std-jute-rug-nuloom-ashli-5x8",
+   "yale-assure-lock-2-wifi-satin-nickel"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Entry kecil untuk staging jual: gantungan jaket, cermin, mangkuk kunci, runner jute.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Entry ±4×6 ft.",
+  "image": "img/combos/v5/v5-e-cm.jpg",
+  "hotspots": [
+   {
+    "item": "eames-hang-it-all-tigrett-1953",
+    "x": 78,
+    "y": 24,
+    "w": 12,
+    "h": 13
+   },
+   {
+    "item": "louis-xv-style-giltwood-overmantel-mirror",
+    "x": 11,
+    "y": 11,
+    "w": 12,
+    "h": 40
+   },
+   {
+    "item": "dansk-quistgaard-teak-ice-bucket",
+    "x": 80,
+    "y": 58,
+    "w": 14,
+    "h": 18
+   },
+   {
+    "item": "std-schoolhouse-satin-nickel-hd",
+    "x": 46,
+    "y": 2,
+    "w": 16,
+    "h": 10
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 30,
+    "y": 77,
+    "w": 46,
+    "h": 23
+   },
+   {
+    "item": "yale-assure-lock-2-wifi-satin-nickel",
+    "x": 40,
+    "y": 46,
+    "w": 5,
+    "h": 6
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "eames-hang-it-all-tigrett-1953": "Gantungan jaket iconic, dipindah dari ruang tamu ke entry."
+  },
+  "hardware": [
+   "hw-12-point-pressed-glass-doorknob-pair",
+   "hw-vintage-push-button-light-switch",
+   "hw-standard-porcelain-cross-faucet-handle",
+   "hw-cast-iron-floor-register-10x12"
+  ],
+  "amenities": [],
+  "decor": [
+   "SENI & TECH: bingkai di dinding atau 2–3 bingkai bertumpuk di rak/konsol; tidak ada yang ditumpuk di lantai; charger/kabel di keranjang."
+  ]
+ },
+ {
+  "id": "p1-hemat-ct-kamar-mandi",
+  "room": "Kamar Mandi",
+  "title": "Kamar Mandi · Craftsman Terang · Hemat",
+  "items": [
+   "toto-drake-ii-cst454cefg",
+   "kohler-memoirs-classic-k2238-8",
+   "delta-cassidy-3597lf-ssmpu",
+   "hinoki-bath-mat-tosa-ryu",
+   "miami-cabinet-recessed-medicine-cabinet-1940",
+   "vintage-turkish-oushak-2x3"
+  ],
+  "tier": "hemat",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "WC TOTO + Washlet, pedestal Kohler, keran Delta satin nickel; aksen thrift: kabinet obat enamel 1940-an + Oushak kecil + alas hinoki.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Kamar mandi 5×8 ft: pedestal (bukan vanity) supaya lapang.",
+  "image": "img/combos/v4/b-ct.jpg",
+  "hotspots": [
+   {
+    "item": "toto-drake-ii-cst454cefg",
+    "x": 7,
+    "y": 52,
+    "w": 33,
+    "h": 33
+   },
+   {
+    "item": "toto-washlet-c5-sw3084",
+    "x": 12,
+    "y": 61,
+    "w": 30,
+    "h": 11
+   },
+   {
+    "item": "kohler-memoirs-classic-k2238-8",
+    "x": 63,
+    "y": 50,
+    "w": 36,
+    "h": 34
+   },
+   {
+    "item": "delta-cassidy-3597lf-ssmpu",
+    "x": 77,
+    "y": 42,
+    "w": 13,
+    "h": 8
+   },
+   {
+    "item": "miami-cabinet-recessed-medicine-cabinet-1940",
+    "x": 72,
+    "y": 11,
+    "w": 27,
+    "h": 27
+   },
+   {
+    "item": "hinoki-bath-mat-tosa-ryu",
+    "x": 56,
+    "y": 80,
+    "w": 37,
+    "h": 16
+   },
+   {
+    "item": "vintage-turkish-oushak-2x3",
+    "x": 14,
+    "y": 84,
+    "w": 50,
+    "h": 16
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {},
+  "hardware": [],
+  "amenities": [
+   "Handuk mandi 4 + handuk tangan 2 + washcloth 4 (Brooklinen Super-Plush set ±$100)",
+   "Bath mat kain 2 (±$30)",
+   "Robe waffle 2 (±$80)",
+   "Dispenser sabun/sampo/kondisioner isi ulang (±$40)",
+   "Hair dryer dinding/lemari (±$30)",
+   "Sikat toilet + plunger (±$25)",
+   "Tisu toilet 12 rol + cadangan (±$15)"
+  ],
+  "decor": [
+   "Spa Jepang: kayu hinoki + putih + satu tanaman.",
+   "Handuk dilipat tiga, digulung untuk tamu.",
+   "Lampu hangat 2700K; lampu malam kecil untuk tamu.",
+   "SENI & TECH: bingkai di dinding atau 2–3 bingkai bertumpuk di rak/konsol; tidak ada yang ditumpuk di lantai; charger/kabel di keranjang."
+  ],
+  "smart": [
+   "toto-washlet-c5-sw3084"
+  ]
+ },
+ {
+  "id": "p1-menengah-ct-kamar-mandi",
+  "room": "Kamar Mandi",
+  "title": "Kamar Mandi · Craftsman Terang · Menengah",
+  "items": [
+   "toto-drake-ii-cst454cefg",
+   "toto-washlet-c5-sw3084",
+   "kohler-memoirs-classic-k2238-8",
+   "delta-cassidy-3597lf-ssmpu",
+   "hinoki-bath-mat-tosa-ryu",
+   "miami-cabinet-recessed-medicine-cabinet-1940",
+   "vintage-turkish-oushak-2x3"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "WC TOTO + Washlet, pedestal Kohler, keran Delta satin nickel; aksen thrift: kabinet obat enamel 1940-an + Oushak kecil + alas hinoki.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Kamar mandi 5×8 ft: pedestal (bukan vanity) supaya lapang.",
+  "image": "img/combos/v4/b-ct.jpg",
+  "hotspots": [
+   {
+    "item": "toto-drake-ii-cst454cefg",
+    "x": 7,
+    "y": 52,
+    "w": 33,
+    "h": 33
+   },
+   {
+    "item": "toto-washlet-c5-sw3084",
+    "x": 12,
+    "y": 61,
+    "w": 30,
+    "h": 11
+   },
+   {
+    "item": "kohler-memoirs-classic-k2238-8",
+    "x": 63,
+    "y": 50,
+    "w": 36,
+    "h": 34
+   },
+   {
+    "item": "delta-cassidy-3597lf-ssmpu",
+    "x": 77,
+    "y": 42,
+    "w": 13,
+    "h": 8
+   },
+   {
+    "item": "miami-cabinet-recessed-medicine-cabinet-1940",
+    "x": 72,
+    "y": 11,
+    "w": 27,
+    "h": 27
+   },
+   {
+    "item": "hinoki-bath-mat-tosa-ryu",
+    "x": 56,
+    "y": 80,
+    "w": 37,
+    "h": 16
+   },
+   {
+    "item": "vintage-turkish-oushak-2x3",
+    "x": 14,
+    "y": 84,
+    "w": 50,
+    "h": 16
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {},
+  "hardware": [],
+  "amenities": [
+   "Handuk mandi 4 + handuk tangan 2 + washcloth 4 (Brooklinen Super-Plush set ±$100)",
+   "Bath mat kain 2 (±$30)",
+   "Robe waffle 2 (±$80)",
+   "Dispenser sabun/sampo/kondisioner isi ulang (±$40)",
+   "Hair dryer dinding/lemari (±$30)",
+   "Sikat toilet + plunger (±$25)",
+   "Tisu toilet 12 rol + cadangan (±$15)"
+  ],
+  "decor": [
+   "Spa Jepang: kayu hinoki + putih + satu tanaman.",
+   "Handuk dilipat tiga, digulung untuk tamu.",
+   "Lampu hangat 2700K; lampu malam kecil untuk tamu.",
+   "SENI & TECH: bingkai di dinding atau 2–3 bingkai bertumpuk di rak/konsol; tidak ada yang ditumpuk di lantai; charger/kabel di keranjang."
+  ]
+ },
+ {
+  "id": "p1-premium-cm-kamar-mandi",
+  "room": "Kamar Mandi",
+  "title": "Kamar Mandi · Craftsman × MCM · Premium",
+  "items": [
+   "toto-drake-ii-cst454cefg",
+   "toto-washlet-c5-sw3084",
+   "kohler-memoirs-classic-k2238-8",
+   "delta-cassidy-3597lf-ssmpu",
+   "hinoki-bath-mat-tosa-ryu",
+   "noguchi-akari-1a",
+   "vintage-turkish-oushak-2x3"
+  ],
+  "tier": "premium",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "WC TOTO + Washlet (standar tamu Amerika makin suka bidet), wastafel pedestal Kohler, keran satin nickel Delta (satu merek/rumah). Nuansa Jepang lewat hinoki & Akari.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Kamar mandi 5×8 ft: pedestal (bukan vanity) supaya lapang.",
+  "image": "img/combos/v4/b-cm.jpg",
+  "hotspots": [
+   {
+    "item": "toto-drake-ii-cst454cefg",
+    "x": 4,
+    "y": 36,
+    "w": 43,
+    "h": 36
+   },
+   {
+    "item": "toto-washlet-c5-sw3084",
+    "x": 4,
+    "y": 46,
+    "w": 32,
+    "h": 12
+   },
+   {
+    "item": "kohler-memoirs-classic-k2238-8",
+    "x": 33,
+    "y": 33,
+    "w": 38,
+    "h": 46
+   },
+   {
+    "item": "delta-cassidy-3597lf-ssmpu",
+    "x": 48,
+    "y": 28,
+    "w": 15,
+    "h": 9
+   },
+   {
+    "item": "hinoki-bath-mat-tosa-ryu",
+    "x": 0,
+    "y": 70,
+    "w": 34,
+    "h": 20
+   },
+   {
+    "item": "vintage-turkish-oushak-2x3",
+    "x": 13,
+    "y": 76,
+    "w": 57,
+    "h": 24
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "noguchi-akari-1a": "Akari di foto AI tampil oranye – aslinya kertas washi putih."
+  },
+  "hardware": [],
+  "amenities": [
+   "Handuk mandi 4 + handuk tangan 2 + washcloth 4 (Brooklinen Super-Plush set ±$100)",
+   "Bath mat kain 2 (±$30)",
+   "Robe waffle 2 (±$80)",
+   "Dispenser sabun/sampo/kondisioner isi ulang (±$40)",
+   "Hair dryer dinding/lemari (±$30)",
+   "Sikat toilet + plunger (±$25)",
+   "Tisu toilet 12 rol + cadangan (±$15)"
+  ],
+  "decor": [
+   "Spa Jepang: kayu hinoki + putih + satu tanaman.",
+   "Handuk dilipat tiga, digulung untuk tamu.",
+   "Lampu hangat 2700K; lampu malam kecil untuk tamu.",
+   "SENI & TECH: bingkai di dinding atau 2–3 bingkai bertumpuk di rak/konsol; tidak ada yang ditumpuk di lantai; charger/kabel di keranjang."
+  ]
+ },
+ {
+  "id": "p1-hemat-ct-dapur",
+  "room": "Dapur",
+  "title": "Dapur · Craftsman Terang · Hemat",
+  "items": [
+   "delta-leland-9178-sp-dst",
+   "griswold-no-8-777-large-block-logo-skillet",
+   "pyrex-butterprint-cinderella-bowls-441-444",
+   "lincoln-beautyware-bread-box",
+   "cosco-step-stool-1950s",
+   "std-schoolhouse-satin-nickel-hd"
+  ],
+  "tier": "hemat",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Galley/L kecil: kabinet putih Alabaster, tarikan satin nickel, keran Delta stainless (finish satin), piece thrift ikonik sebagai satu-satunya warna.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Galley 8 ft / L kecil; meja kafe bulat ≤30\".",
+  "image": "img/combos/v5/v5-k-ct.jpg",
+  "hotspots": [
+   {
+    "item": "delta-leland-9178-sp-dst",
+    "x": 26,
+    "y": 36,
+    "w": 7,
+    "h": 15
+   },
+   {
+    "item": "griswold-no-8-777-large-block-logo-skillet",
+    "x": 16,
+    "y": 53,
+    "w": 18,
+    "h": 6
+   },
+   {
+    "item": "pyrex-butterprint-cinderella-bowls-441-444",
+    "x": 0,
+    "y": 49,
+    "w": 12,
+    "h": 14
+   },
+   {
+    "item": "lincoln-beautyware-bread-box",
+    "x": 32,
+    "y": 45,
+    "w": 7,
+    "h": 7
+   },
+   {
+    "item": "cosco-step-stool-1950s",
+    "x": 64,
+    "y": 50,
+    "w": 12,
+    "h": 32
+   },
+   {
+    "item": "std-schoolhouse-satin-nickel-hd",
+    "x": 62,
+    "y": 0,
+    "w": 12,
+    "h": 12
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {},
+  "hardware": [],
+  "amenities": [
+   "Stasiun kopi/teh: pembuat kopi + ketel listrik (±$120)",
+   "Set panci-wajan 8 pcs (±$150)",
+   "Piring, mangkuk, gelas, alat makan untuk 4 (±$120)",
+   "Pisau + talenan (±$60)",
+   "Bumbu dasar: garam, merica, minyak, gula (±$25)",
+   "Tempat sampah + daur ulang (±$60)",
+   "Kotak P3K (±$25)",
+   "APAR/fire extinguisher dapur (±$40)",
+   "Detektor asap + CO kombinasi (±$45)",
+   "Perlengkapan bersih: sapu, pel, vakum stick, semprotan serbaguna (±$200)"
+  ],
+  "decor": [
+   "Kosongkan meja: maks 3 benda (bread box, mangkuk, satu tanaman).",
+   "Satu aksen gelap saja (Griswold).",
+   "Under-cabinet LED 2700K sebagai lapisan lampu ketiga.",
+   "SENI & TECH: bingkai di dinding atau 2–3 bingkai bertumpuk di rak/konsol; tidak ada yang ditumpuk di lantai; charger/kabel di keranjang."
+  ]
+ },
+ {
+  "id": "p1-menengah-ct-dapur",
+  "room": "Dapur",
+  "title": "Dapur · Craftsman Terang · Menengah",
+  "items": [
+   "delta-leland-9178-sp-dst",
+   "griswold-no-8-777-large-block-logo-skillet",
+   "pyrex-butterprint-cinderella-bowls-441-444",
+   "lincoln-beautyware-bread-box",
+   "cosco-step-stool-1950s",
+   "std-schoolhouse-satin-nickel-hd",
+   "fire-king-jadeite-jane-ray"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman Terang",
+  "house_style": "Craftsman Terang",
+  "phase": 1,
+  "why": "Galley/L kecil: kabinet putih Alabaster, tarikan satin nickel, keran Delta stainless (finish satin), piece thrift ikonik sebagai satu-satunya warna.",
+  "era": "Lintas era",
+  "style": "Craftsman Terang",
+  "scale": "Galley 8 ft / L kecil; meja kafe bulat ≤30\".",
+  "image": "img/combos/v5/v5-k-ct.jpg",
+  "hotspots": [
+   {
+    "item": "delta-leland-9178-sp-dst",
+    "x": 26,
+    "y": 36,
+    "w": 7,
+    "h": 15
+   },
+   {
+    "item": "griswold-no-8-777-large-block-logo-skillet",
+    "x": 16,
+    "y": 53,
+    "w": 18,
+    "h": 6
+   },
+   {
+    "item": "pyrex-butterprint-cinderella-bowls-441-444",
+    "x": 0,
+    "y": 49,
+    "w": 12,
+    "h": 14
+   },
+   {
+    "item": "lincoln-beautyware-bread-box",
+    "x": 32,
+    "y": 45,
+    "w": 7,
+    "h": 7
+   },
+   {
+    "item": "cosco-step-stool-1950s",
+    "x": 64,
+    "y": 50,
+    "w": 12,
+    "h": 32
+   },
+   {
+    "item": "std-schoolhouse-satin-nickel-hd",
+    "x": 62,
+    "y": 0,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "item": "fire-king-jadeite-jane-ray",
+    "x": 44,
+    "y": 16,
+    "w": 13,
+    "h": 16
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {},
+  "hardware": [],
+  "amenities": [
+   "Stasiun kopi/teh: pembuat kopi + ketel listrik (±$120)",
+   "Set panci-wajan 8 pcs (±$150)",
+   "Piring, mangkuk, gelas, alat makan untuk 4 (±$120)",
+   "Pisau + talenan (±$60)",
+   "Bumbu dasar: garam, merica, minyak, gula (±$25)",
+   "Tempat sampah + daur ulang (±$60)",
+   "Kotak P3K (±$25)",
+   "APAR/fire extinguisher dapur (±$40)",
+   "Detektor asap + CO kombinasi (±$45)",
+   "Perlengkapan bersih: sapu, pel, vakum stick, semprotan serbaguna (±$200)"
+  ],
+  "decor": [
+   "Kosongkan meja: maks 3 benda (bread box, mangkuk, satu tanaman).",
+   "Satu aksen gelap saja (Griswold).",
+   "Under-cabinet LED 2700K sebagai lapisan lampu ketiga.",
+   "SENI & TECH: bingkai di dinding atau 2–3 bingkai bertumpuk di rak/konsol; tidak ada yang ditumpuk di lantai; charger/kabel di keranjang."
+  ]
+ },
+ {
+  "id": "p1-premium-cm-dapur",
+  "room": "Dapur",
+  "title": "Dapur · Craftsman × MCM · Premium",
+  "items": [
+   "delta-leland-9178-sp-dst",
+   "dansk-kobenstyle-4qt-casserole",
+   "fire-king-jadeite-jane-ray",
+   "thonet-no-18-bentwood-chair"
+  ],
+  "tier": "premium",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Galley/L kecil: kabinet putih Alabaster, tarikan satin nickel, keran Delta stainless (finish satin), piece thrift ikonik sebagai satu-satunya warna.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Galley 8 ft / L kecil; meja kafe bulat ≤30\".",
+  "image": "img/combos/v4/k-cm.jpg",
+  "hotspots": [
+   {
+    "item": "delta-leland-9178-sp-dst",
+    "x": 44,
+    "y": 40,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "item": "dansk-kobenstyle-4qt-casserole",
+    "x": 8,
+    "y": 48,
+    "w": 13,
+    "h": 10
+   },
+   {
+    "item": "fire-king-jadeite-jane-ray",
+    "x": 31,
+    "y": 19,
+    "w": 22,
+    "h": 7
+   },
+   {
+    "item": "thonet-no-18-bentwood-chair",
+    "x": 59,
+    "y": 43,
+    "w": 17,
+    "h": 52
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {},
+  "hardware": [],
+  "amenities": [
+   "Stasiun kopi/teh: pembuat kopi + ketel listrik (±$120)",
+   "Set panci-wajan 8 pcs (±$150)",
+   "Piring, mangkuk, gelas, alat makan untuk 4 (±$120)",
+   "Pisau + talenan (±$60)",
+   "Bumbu dasar: garam, merica, minyak, gula (±$25)",
+   "Tempat sampah + daur ulang (±$60)",
+   "Kotak P3K (±$25)",
+   "APAR/fire extinguisher dapur (±$40)",
+   "Detektor asap + CO kombinasi (±$45)",
+   "Perlengkapan bersih: sapu, pel, vakum stick, semprotan serbaguna (±$200)"
+  ],
+  "decor": [
+   "Kosongkan meja: maks 3 benda (bread box, mangkuk, satu tanaman).",
+   "Satu aksen gelap saja (Griswold).",
+   "Under-cabinet LED 2700K sebagai lapisan lampu ketiga.",
+   "SENI & TECH: bingkai di dinding atau 2–3 bingkai bertumpuk di rak/konsol; tidak ada yang ditumpuk di lantai; charger/kabel di keranjang."
+  ]
+ },
+ {
+  "id": "p1-hemat-cm-ruang-kerja",
+  "room": "Ruang Kerja",
+  "title": "Ruang Kerja · Craftsman × MCM · Hemat",
+  "items": [
+   "lovig-nielsen-teak-desk",
+   "thonet-no-14-bentwood-chair",
+   "luxo-l-1-task-lamp",
+   "string-pocket-shelf",
+   "mac-mini-m4-16-256"
+  ],
+  "tier": "hemat",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Kamar 1 jadi ruang kerja untuk tamu remote-work: meja teak ramping, Thonet, Luxo, String. Hemat: meja tulis teak tanpa nama ±$519 + Thonet replika ±$165. Premium: tambah Nelson bench.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Kamar ±10×11 ft: meja ≤120 cm, kursi tanpa lengan.",
+  "image": "img/combos/v5/v5-o-cm.jpg",
+  "hotspots": [
+   {
+    "item": "lovig-nielsen-teak-desk",
+    "x": 43,
+    "y": 52,
+    "w": 45,
+    "h": 42
+   },
+   {
+    "item": "thonet-no-14-bentwood-chair",
+    "x": 40,
+    "y": 58,
+    "w": 20,
+    "h": 40
+   },
+   {
+    "item": "luxo-l-1-task-lamp",
+    "x": 52,
+    "y": 40,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "item": "string-pocket-shelf",
+    "x": 56,
+    "y": 22,
+    "w": 25,
+    "h": 19
+   },
+   {
+    "item": "mac-mini-m4-16-256",
+    "x": 48,
+    "y": 55,
+    "w": 7,
+    "h": 4
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "mac-mini-m4-16-256": "Monitor 24–27\" belum diverifikasi harganya.",
+   "lovig-nielsen-teak-desk": "Hemat: meja tulis teak Denmark tanpa nama ($519 Austin Auction)."
+  },
+  "hardware": [],
+  "amenities": [
+   "Multi-colokan + kabel charger USB-C (±$30)",
+   "Organizer kabel di bawah meja (±$20)",
+   "Wi-Fi password card berbingkai (±$10)"
+  ],
+  "decor": [
+   "Meja menghadap jendela = focal point & cahaya alami.",
+   "Rak String: rule of three per papan, sisakan ruang kosong.",
+   "Kabel lewat tray di bawah meja; Mac mini disembunyikan.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "tastepick-book-cable-box",
+   "kpon-invisible-wireless-charger-c30",
+   "pacolo-book-safe-pride-prejudice"
+  ]
+ },
+ {
+  "id": "p1-menengah-cm-ruang-kerja",
+  "room": "Ruang Kerja",
+  "title": "Ruang Kerja · Craftsman × MCM · Menengah",
+  "items": [
+   "lovig-nielsen-teak-desk",
+   "thonet-no-14-bentwood-chair",
+   "luxo-l-1-task-lamp",
+   "string-pocket-shelf",
+   "mac-mini-m4-16-256",
+   "vintage-penguin-paperbacks"
+  ],
+  "tier": "menengah",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Kamar 1 jadi ruang kerja untuk tamu remote-work: meja teak ramping, Thonet, Luxo, String. Hemat: meja tulis teak tanpa nama ±$519 + Thonet replika ±$165. Premium: tambah Nelson bench.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Kamar ±10×11 ft: meja ≤120 cm, kursi tanpa lengan.",
+  "image": "img/combos/v5/v5-o-cm.jpg",
+  "hotspots": [
+   {
+    "item": "lovig-nielsen-teak-desk",
+    "x": 43,
+    "y": 52,
+    "w": 45,
+    "h": 42
+   },
+   {
+    "item": "thonet-no-14-bentwood-chair",
+    "x": 40,
+    "y": 58,
+    "w": 20,
+    "h": 40
+   },
+   {
+    "item": "luxo-l-1-task-lamp",
+    "x": 52,
+    "y": 40,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "item": "string-pocket-shelf",
+    "x": 56,
+    "y": 22,
+    "w": 25,
+    "h": 19
+   },
+   {
+    "item": "mac-mini-m4-16-256",
+    "x": 48,
+    "y": 55,
+    "w": 7,
+    "h": 4
+   },
+   {
+    "item": "vintage-penguin-paperbacks",
+    "x": 75,
+    "y": 57,
+    "w": 9,
+    "h": 5
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "mac-mini-m4-16-256": "Monitor 24–27\" belum diverifikasi harganya.",
+   "lovig-nielsen-teak-desk": "Hemat: meja tulis teak Denmark tanpa nama ($519 Austin Auction)."
+  },
+  "hardware": [],
+  "amenities": [
+   "Multi-colokan + kabel charger USB-C (±$30)",
+   "Organizer kabel di bawah meja (±$20)",
+   "Wi-Fi password card berbingkai (±$10)"
+  ],
+  "decor": [
+   "Meja menghadap jendela = focal point & cahaya alami.",
+   "Rak String: rule of three per papan, sisakan ruang kosong.",
+   "Kabel lewat tray di bawah meja; Mac mini disembunyikan.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "tastepick-book-cable-box",
+   "kpon-invisible-wireless-charger-c30",
+   "pacolo-book-safe-pride-prejudice"
+  ]
+ },
+ {
+  "id": "p1-premium-cm-ruang-kerja",
+  "room": "Ruang Kerja",
+  "title": "Ruang Kerja · Craftsman × MCM · Premium",
+  "items": [
+   "lovig-nielsen-teak-desk",
+   "thonet-no-14-bentwood-chair",
+   "luxo-l-1-task-lamp",
+   "string-pocket-shelf",
+   "mac-mini-m4-16-256",
+   "vintage-penguin-paperbacks",
+   "nelson-platform-bench-48"
+  ],
+  "tier": "premium",
+  "profile": "Craftsman × MCM",
+  "house_style": "Craftsman × MCM",
+  "phase": 1,
+  "why": "Kamar 1 jadi ruang kerja untuk tamu remote-work: meja teak ramping, Thonet, Luxo, String. Hemat: meja tulis teak tanpa nama ±$519 + Thonet replika ±$165. Premium: tambah Nelson bench.",
+  "era": "Lintas era",
+  "style": "Craftsman × MCM",
+  "scale": "Kamar ±10×11 ft: meja ≤120 cm, kursi tanpa lengan.",
+  "image": "img/combos/v5/v5-o-cm.jpg",
+  "hotspots": [
+   {
+    "item": "lovig-nielsen-teak-desk",
+    "x": 43,
+    "y": 52,
+    "w": 45,
+    "h": 42
+   },
+   {
+    "item": "thonet-no-14-bentwood-chair",
+    "x": 40,
+    "y": 58,
+    "w": 20,
+    "h": 40
+   },
+   {
+    "item": "luxo-l-1-task-lamp",
+    "x": 52,
+    "y": 40,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "item": "string-pocket-shelf",
+    "x": 56,
+    "y": 22,
+    "w": 25,
+    "h": 19
+   },
+   {
+    "item": "mac-mini-m4-16-256",
+    "x": 48,
+    "y": 55,
+    "w": 7,
+    "h": 4
+   },
+   {
+    "item": "vintage-penguin-paperbacks",
+    "x": 75,
+    "y": 57,
+    "w": 9,
+    "h": 5
+   },
+   {
+    "item": "nelson-platform-bench-48",
+    "x": 0,
+    "y": 65,
+    "w": 32,
+    "h": 27
+   }
+  ],
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "notes": {
+   "mac-mini-m4-16-256": "Monitor 24–27\" belum diverifikasi harganya.",
+   "lovig-nielsen-teak-desk": "Hemat: meja tulis teak Denmark tanpa nama ($519 Austin Auction)."
+  },
+  "hardware": [],
+  "amenities": [
+   "Multi-colokan + kabel charger USB-C (±$30)",
+   "Organizer kabel di bawah meja (±$20)",
+   "Wi-Fi password card berbingkai (±$10)"
+  ],
+  "decor": [
+   "Meja menghadap jendela = focal point & cahaya alami.",
+   "Rak String: rule of three per papan, sisakan ruang kosong.",
+   "Kabel lewat tray di bawah meja; Mac mini disembunyikan.",
+   "Smart & tersembunyi: grow light 3000K di lampu dekat tanaman, remote/charger di book safe, charger Qi di bawah meja, Frame TV tampil lukisan Met Open Access — teknologi tak terlihat, ruangan tetap hangat.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ],
+  "smart": [
+   "tastepick-book-cable-box",
+   "kpon-invisible-wireless-charger-c30",
+   "pacolo-book-safe-pride-prejudice"
+  ]
+ },
+ {
+  "id": "rl-menengah-ruang-tamu",
+  "room": "Ruang Tamu",
+  "title": "Ruang Tamu · Alfredo Paredes / Ralph Lauren · Menengah",
+  "tier": "menengah",
+  "profile": "Alfredo Paredes / Ralph Lauren",
+  "house_style": "Alfredo Paredes / Ralph Lauren",
+  "phase": 2,
+  "era": "Lintas era (Victorian–1990s)",
+  "style": "Alfredo Paredes / Ralph Lauren",
+  "items": [
+   "hancock-moore-chesterfield-loveseat-59",
+   "rl-sargent-swing-arm-floor-lamp",
+   "antique-heriz-rug-northwest-persia",
+   "english-tole-tray-on-stand",
+   "staffordshire-spaniels-pair",
+   "faribault-north-shore-wool-throw",
+   "henry-alken-hunting-print",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "why": "Ruang 'gentleman's study' RL versi rumah kecil: satu Chesterfield kulit cognac sebagai jangkar, brass swing-arm untuk baca, tartan, sporting print, anjing Staffordshire. Dinding tetap Alabaster supaya terang dan netral untuk pembeli.",
+  "scale": "Ruang 14×13 ft: loveseat ≤64\", tole tray on stand ganti coffee table besar.",
+  "image": "img/combos/rl/rl-menengah-ruang-tamu.jpg",
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "hotspots": [
+   {
+    "item": "hancock-moore-chesterfield-loveseat-59",
+    "x": 16,
+    "y": 50,
+    "w": 46,
+    "h": 36
+   },
+   {
+    "item": "faribault-north-shore-wool-throw",
+    "x": 16,
+    "y": 53,
+    "w": 9,
+    "h": 26
+   },
+   {
+    "item": "rl-sargent-swing-arm-floor-lamp",
+    "x": 11,
+    "y": 29,
+    "w": 13,
+    "h": 54
+   },
+   {
+    "item": "english-tole-tray-on-stand",
+    "x": 46,
+    "y": 65,
+    "w": 32,
+    "h": 28
+   },
+   {
+    "item": "antique-heriz-rug-northwest-persia",
+    "x": 22,
+    "y": 78,
+    "w": 70,
+    "h": 20
+   },
+   {
+    "item": "staffordshire-spaniels-pair",
+    "x": 65,
+    "y": 32,
+    "w": 22,
+    "h": 11
+   },
+   {
+    "item": "henry-alken-hunting-print",
+    "x": 21,
+    "y": 17,
+    "w": 12,
+    "h": 18
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 6,
+    "y": 82,
+    "w": 12,
+    "h": 14
+   }
+  ],
+  "notes": {
+   "hancock-moore-chesterfield-loveseat-59": "Jangkar ruangan; kulit cognac = warmth utama. Hemat: Chesterfield kulit asli tanpa merek. Premium: tambah RL Writer's Chair (rl-writers-chair-913-03) di sudut.",
+   "rl-sargent-swing-arm-floor-lamp": "Lampu baca khas RL; brass antik = logam lepas (aturan 70/30 dengan nikel).",
+   "english-tole-tray-on-stand": "Meja kopi yang bisa dilipat — hemat tempat.",
+   "staffordshire-spaniels-pair": "Simetri sepasang = sentuhan Inggris-Amerika.",
+   "henry-alken-hunting-print": "Sporting art; Paredes suka cerita lewat benda.",
+   "faribault-north-shore-wool-throw": "Tartan/plaid buatan AS (Beli baru).",
+   "antique-heriz-rug-northwest-persia": "Persia di atas jute: lapisan tekstur.",
+   "std-jute-rug-nuloom-ashli-5x8": "Dasar karpet standar."
+  },
+  "hardware": [],
+  "amenities": [
+   "Throw cadangan di keranjang (±$30)",
+   "Coaster kulit (±$15)",
+   "Lilin LED di candlestick (±$12)",
+   "Buku panduan rumah berbingkai kulit (±$20)"
+  ],
+  "decor": [
+   "Satu jangkar kulit cognac; sisanya ringan & berkaki supaya ruangan kecil tetap lapang.",
+   "Gallery 3 print berbingkai emas tipis (rule of three) di atas/ samping sofa.",
+   "Simetri: sepasang Staffordshire mengapit tumpukan buku kulit.",
+   "Layering: jute → Persia → throw tartan → bantal plaid/hijau hunter.",
+   "Lighting 3 level: plafon schoolhouse, swing-arm task, lilin aksen.",
+   "High-low ala Paredes: barang antik murah dicampur throw baru.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ]
+ },
+ {
+  "id": "rl-hemat-kamar-tidur",
+  "room": "Kamar Tidur",
+  "title": "Kamar Tidur · Alfredo Paredes / Ralph Lauren · Hemat",
+  "tier": "hemat",
+  "profile": "Alfredo Paredes / Ralph Lauren",
+  "house_style": "Alfredo Paredes / Ralph Lauren",
+  "phase": 2,
+  "era": "Lintas era",
+  "style": "Alfredo Paredes / Ralph Lauren",
+  "items": [
+   "rl-westminster-four-poster-queen",
+   "henredon-campaign-chest-6-drawer",
+   "hitchcock-stenciled-side-chair",
+   "rl-brompton-swing-arm-wall-lamp",
+   "pendleton-5th-avenue-throw-maciver",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "why": "Kamar RL klasik: four-poster tanpa kanopi, linen putih + bantal stripe Oxford, tartan MacIver di kaki ranjang, campaign chest berkuningan, kursi Hitchcock sebagai aksen Amerika.",
+  "scale": "Kamar 13×14 ft: queen, tiang ramping tanpa kanopi; chest 45\" ganti dresser besar; swing-arm dinding ganti nakas lampu.",
+  "image": "img/combos/rl/rl-hemat-kamar-tidur.jpg",
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "hotspots": [
+   {
+    "item": "rl-westminster-four-poster-queen",
+    "x": 17,
+    "y": 19,
+    "w": 58,
+    "h": 62
+   },
+   {
+    "item": "pendleton-5th-avenue-throw-maciver",
+    "x": 20,
+    "y": 53,
+    "w": 37,
+    "h": 21
+   },
+   {
+    "item": "henredon-campaign-chest-6-drawer",
+    "x": 75,
+    "y": 51,
+    "w": 24,
+    "h": 29
+   },
+   {
+    "item": "hitchcock-stenciled-side-chair",
+    "x": 0,
+    "y": 47,
+    "w": 15,
+    "h": 30
+   },
+   {
+    "item": "rl-brompton-swing-arm-wall-lamp",
+    "x": 76,
+    "y": 32,
+    "w": 6,
+    "h": 18
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 86,
+    "y": 82,
+    "w": 12,
+    "h": 12
+   }
+  ],
+  "notes": {
+   "rl-westminster-four-poster-queen": "Target ±$150; satu-satunya kayu gelap besar di ruangan.",
+   "henredon-campaign-chest-6-drawer": "Harga terjual belum terverifikasi (baru estimasi).",
+   "hitchcock-stenciled-side-chair": "Kursi Amerika 1820-an, ±$15 target.",
+   "rl-brompton-swing-arm-wall-lamp": "Lampu baca plug-in, kedua sisi.",
+   "pendleton-5th-avenue-throw-maciver": "Tartan merah = warna RL; Beli baru."
+  },
+  "hardware": [],
+  "amenities": [
+   "Linen putih percale 2 set (±$120)",
+   "Bantal stripe navy (±$40)",
+   "Tray kulit di atas chest untuk kunci (±$20)",
+   "Hanger kayu seragam (±$25)"
+  ],
+  "decor": [
+   "Focal point: ranjang four-poster di tengah dinding, lampu simetris.",
+   "Palet: putih Alabaster + mahoni + merah tartan + navy stripe.",
+   "Rule of three di chest: buku kulit, tanaman, print kuda.",
+   "Lighting 3 level: plafon, swing-arm, lampu meja aksen.",
+   "Kayu gelap maksimal satu jangkar (ranjang); chest & kursi jadi aksen.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ]
+ },
+ {
+  "id": "rl-menengah-ruang-kerja",
+  "room": "Ruang Kerja",
+  "title": "Ruang Kerja · Alfredo Paredes / Ralph Lauren · Menengah",
+  "tier": "menengah",
+  "profile": "Alfredo Paredes / Ralph Lauren",
+  "house_style": "Alfredo Paredes / Ralph Lauren",
+  "phase": 2,
+  "era": "Lintas era",
+  "style": "Alfredo Paredes / Ralph Lauren",
+  "items": [
+   "nichols-stone-windsor-chair",
+   "emeralite-no-8734-banker-s-lamp",
+   "william-hart-hudson-river-school-landscape",
+   "pacolo-book-safe-pride-prejudice",
+   "drexel-campaign-writing-desk",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "why": "Kamar 1 jadi ruang kerja ala library RL: Windsor madu, banker's lamp hijau, lukisan Hudson River berbingkai emas, rak putih penuh buku kulit; teknologi disembunyikan di book safe.",
+  "scale": "Kamar 10×11 ft: meja ≤48\", kursi tanpa lengan lebar.",
+  "image": "img/combos/rl/rl-menengah-ruang-kerja.jpg",
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "hotspots": [
+   {
+    "item": "nichols-stone-windsor-chair",
+    "x": 38,
+    "y": 47,
+    "w": 22,
+    "h": 50
+   },
+   {
+    "item": "emeralite-no-8734-banker-s-lamp",
+    "x": 60,
+    "y": 40,
+    "w": 8,
+    "h": 14
+   },
+   {
+    "item": "william-hart-hudson-river-school-landscape",
+    "x": 64,
+    "y": 7,
+    "w": 20,
+    "h": 31
+   },
+   {
+    "item": "pacolo-book-safe-pride-prejudice",
+    "x": 72,
+    "y": 50,
+    "w": 9,
+    "h": 7
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 12,
+    "y": 90,
+    "w": 12,
+    "h": 8
+   }
+  ],
+  "notes": {
+   "drexel-campaign-writing-desk": "Target meja; di gambar AI mejanya keluar gaya Sheraton, bukan campaign — tidak diberi area klik.",
+   "nichols-stone-windsor-chair": "Kursi kerja; maple madu = kayu terang.",
+   "emeralite-no-8734-banker-s-lamp": "Lampu task hijau klasik.",
+   "william-hart-hudson-river-school-landscape": "Seni Amerika abad 19 = storytelling Paredes.",
+   "pacolo-book-safe-pride-prejudice": "Charger/remote tersembunyi."
+  },
+  "hardware": [],
+  "amenities": [
+   "Multi-colokan tersembunyi (±$30)",
+   "Desk blotter kulit (±$35)",
+   "Wi-Fi card berbingkai kuningan (±$12)"
+  ],
+  "smart": [
+   "pacolo-book-safe-pride-prejudice"
+  ],
+  "decor": [
+   "Meja menghadap jendela; lukisan berbingkai emas jadi focal point.",
+   "Rak putih built-in: buku kulit + satu objek kuningan per papan.",
+   "Lighting: plafon + banker's lamp + sconce.",
+   "Bantal plaid navy di kursi = sentuhan tekstil RL.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ]
+ },
+ {
+  "id": "hr-menengah-ruang-tamu",
+  "room": "Ruang Tamu",
+  "title": "Ruang Tamu · Hollywood Regency · Menengah",
+  "tier": "menengah",
+  "profile": "Hollywood Regency",
+  "house_style": "Hollywood Regency",
+  "phase": 2,
+  "era": "1930s–70s + revival",
+  "style": "Hollywood Regency",
+  "items": [
+   "article-sven-88-velvet-sofa",
+   "hr-tufted-slipper-chairs-pair",
+   "frederick-cooper-brass-column-table-lamp",
+   "baughman-style-brass-glass-bar-cart",
+   "hr-brass-marble-side-table",
+   "vintage-turkish-oushak-rug-small",
+   "std-jute-rug-nuloom-ashli-5x8",
+   "hm-cotton-velvet-cushion-cover"
+  ],
+  "why": "Lama-baru: sofa velvet emerald baru sebagai kanvas, dikelilingi temuan vintage (slipper chair, lampu Cooper, bar cart, meja marmer, Oushak). Layering karpet, bantal, throw, dan tray-di-atas-buku memberi kedalaman tanpa ramai.",
+  "scale": "14×13 ft: slipper chair tanpa lengan hemat tempat; coffee table bulat.",
+  "image": "img/combos/hr/hr-menengah-ruang-tamu-v2.jpg",
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "hotspots": [
+   {
+    "item": "article-sven-88-velvet-sofa",
+    "x": 29,
+    "y": 42,
+    "w": 48,
+    "h": 22
+   },
+   {
+    "item": "hm-cotton-velvet-cushion-cover",
+    "x": 58,
+    "y": 44,
+    "w": 8,
+    "h": 9
+   },
+   {
+    "item": "hr-tufted-slipper-chairs-pair",
+    "x": 15,
+    "y": 59,
+    "w": 25,
+    "h": 30
+   },
+   {
+    "item": "frederick-cooper-brass-column-table-lamp",
+    "x": 72,
+    "y": 32,
+    "w": 7,
+    "h": 16
+   },
+   {
+    "item": "hr-brass-marble-side-table",
+    "x": 40,
+    "y": 61,
+    "w": 21,
+    "h": 18
+   },
+   {
+    "item": "baughman-style-brass-glass-bar-cart",
+    "x": 83,
+    "y": 51,
+    "w": 17,
+    "h": 28
+   },
+   {
+    "item": "vintage-turkish-oushak-rug-small",
+    "x": 30,
+    "y": 80,
+    "w": 40,
+    "h": 10
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 3,
+    "y": 87,
+    "w": 12,
+    "h": 7
+   }
+  ],
+  "notes": {
+   "article-sven-88-velvet-sofa": "BELI BARU $1,399 — porsi 'baru'. Hemat: velvet sofa thrift.",
+   "hm-cotton-velvet-cushion-cover": "Baru $15 — bantal polos untuk lapisan.",
+   "hr-tufted-slipper-chairs-pair": "Vintage, velvet seladon.",
+   "frederick-cooper-brass-column-table-lamp": "Vintage; 2 unit.",
+   "hr-brass-marble-side-table": "Vintage; tray lucite + mangkuk kuningan di atas buku.",
+   "baughman-style-brass-glass-bar-cart": "Vintage; kristal + vas biru-putih.",
+   "vintage-turkish-oushak-rug-small": "Vintage, lapisan atas.",
+   "std-jute-rug-nuloom-ashli-5x8": "Baru, lapisan dasar."
+  },
+  "hardware": [],
+  "amenities": [
+   "Bantal Greek key velvet navy 2 (Aloriam $50/cover)",
+   "Bantal silk blush (±$25)",
+   "Throw rajut krem (±$40)",
+   "Tray lucite (±$25)",
+   "Fiddle-leaf fig + anggrek (±$60)",
+   "Meja samping rotan thrift (±$30)"
+  ],
+  "decor": [
+   "LAYERING: jute 8×10 (dasar) → Oushak vintage (motif) → sofa velvet → bantal 4 lapis (velvet polos, Greek key cut-velvet, silk blush, bouclé) → throw rajut di lengan → tray lucite di atas tumpukan buku.",
+   "MATERIAL (9): velvet, kuningan, marmer, lucite, kaca/kristal, rotan, keramik biru-putih, wol, tanaman. Ulangi tiap material min. 2× (kuningan: lampu + bar cart + meja).",
+   "LAMA–BARU ±70/30: vintage = kursi, lampu, bar cart, meja, karpet; baru = sofa, bantal, throw, tanaman.",
+   "Simetri Regency: lampu kembar, kursi kembar, bantal kembar.",
+   "Kilau dikendalikan: emas di 3 zona saja, sisanya tekstur matte.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ]
+ },
+ {
+  "id": "hr-menengah-kamar-tidur",
+  "room": "Kamar Tidur",
+  "title": "Kamar Tidur · Hollywood Regency · Menengah",
+  "tier": "menengah",
+  "profile": "Hollywood Regency",
+  "house_style": "Hollywood Regency",
+  "phase": 2,
+  "era": "1950s–70s",
+  "style": "Hollywood Regency",
+  "items": [
+   "draper-espana-chest-heritage-henredon",
+   "syroco-sunburst-mirror",
+   "henredon-faux-bamboo-nightstand-pair",
+   "chinese-ginger-jar-lamps-pair",
+   "antique-sarouk-rug-persia",
+   "std-jute-rug-nuloom-ashli-5x8",
+   "brooklinen-luxe-sateen-core-queen",
+   "aloriam-delphi-greek-key-velvet-pillow"
+  ],
+  "why": "Draper chest hitam-emas dan sunburst (vintage) + sprei sateen baru & bantal Greek key baru; Sarouk pudar di atas jute; nakas faux-bamboo dengan lampu ginger jar, buku, dish kuningan, carafe kaca.",
+  "scale": "13×14 ft: chest 38\" ganti dresser; headboard tinggi tanpa tiang.",
+  "image": "img/combos/hr/hr-menengah-kamar-tidur-v2.jpg",
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "hotspots": [
+   {
+    "item": "draper-espana-chest-heritage-henredon",
+    "x": 76,
+    "y": 43,
+    "w": 22,
+    "h": 43
+   },
+   {
+    "item": "syroco-sunburst-mirror",
+    "x": 88,
+    "y": 7,
+    "w": 12,
+    "h": 21
+   },
+   {
+    "item": "henredon-faux-bamboo-nightstand-pair",
+    "x": 58,
+    "y": 45,
+    "w": 15,
+    "h": 20
+   },
+   {
+    "item": "chinese-ginger-jar-lamps-pair",
+    "x": 62,
+    "y": 25,
+    "w": 9,
+    "h": 20
+   },
+   {
+    "item": "brooklinen-luxe-sateen-core-queen",
+    "x": 4,
+    "y": 47,
+    "w": 52,
+    "h": 30
+   },
+   {
+    "item": "aloriam-delphi-greek-key-velvet-pillow",
+    "x": 43,
+    "y": 35,
+    "w": 10,
+    "h": 11
+   },
+   {
+    "item": "antique-sarouk-rug-persia",
+    "x": 3,
+    "y": 74,
+    "w": 64,
+    "h": 24
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 71,
+    "y": 90,
+    "w": 7,
+    "h": 7
+   }
+  ],
+  "notes": {
+   "draper-espana-chest-heritage-henredon": "Vintage; satu-satunya aksen gelap. Kini kaki lurus seperti aslinya.",
+   "syroco-sunburst-mirror": "Vintage (harga toko).",
+   "henredon-faux-bamboo-nightstand-pair": "Vintage.",
+   "chinese-ginger-jar-lamps-pair": "Vintage.",
+   "antique-sarouk-rug-persia": "Vintage, dipakai ulang dari profil lain.",
+   "std-jute-rug-nuloom-ashli-5x8": "Baru, dasar.",
+   "brooklinen-luxe-sateen-core-queen": "BELI BARU $199.",
+   "aloriam-delphi-greek-key-velvet-pillow": "BELI BARU $50 ×2."
+  },
+  "hardware": [],
+  "amenities": [
+   "Throw blush (±$40)",
+   "Bantal silk blush & velvet emas (±$40)",
+   "Tray lucite di chest (±$25)",
+   "Carafe kaca 2 (±$20)",
+   "Pothos di jendela (±$15)"
+  ],
+  "decor": [
+   "LAYERING: jute → Sarouk vintage; ranjang: sprei sateen → duvet → Euro sham → silk blush → Greek key velvet → lumbar velvet emas → throw di kaki.",
+   "Vignette nakas: lampu + 2–3 buku + dish kuningan di atasnya + carafe kaca (tinggi–sedang–rendah).",
+   "MATERIAL (9): lacquer, kuningan/gilt, faux-bamboo, keramik, kaca, lucite, velvet, silk, wol.",
+   "LAMA–BARU ±70/30: furnitur & lampu vintage; tekstil tidur baru (higienis, segar untuk pembeli).",
+   "Satu dinding drama (chest + sunburst), dinding lain tenang.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ]
+ },
+ {
+  "id": "hr-hemat-ruang-makan",
+  "room": "Ruang Makan",
+  "title": "Ruang Makan · Hollywood Regency · Hemat",
+  "tier": "hemat",
+  "profile": "Hollywood Regency",
+  "house_style": "Hollywood Regency",
+  "phase": 2,
+  "era": "1950s–70s",
+  "style": "Hollywood Regency",
+  "items": [
+   "saarinen-tulip-dining-table-42-round-knoll",
+   "baughman-thayer-coggin-chrome-dining-chairs-set4",
+   "chapman-hollywood-regency-brass-lamps-pair",
+   "saro-greek-key-table-runner",
+   "std-jute-rug-nuloom-ashli-5x8"
+  ],
+  "why": "Greek key jelas di runner baru; meja tulip marmer & kursi chrome vintage; lampu Chapman kembar, tray rotan dengan decanter di atas buku, olive tree, print botani berbingkai emas, karpet vintage biru di atas jute.",
+  "scale": "Meja 42\" bulat untuk 4 orang di ruang 11×11 ft.",
+  "image": "img/combos/hr/hr-hemat-ruang-makan-v2.jpg",
+  "ai_label": "Ilustrasi AI, bukan foto asli",
+  "hotspots": [
+   {
+    "item": "saarinen-tulip-dining-table-42-round-knoll",
+    "x": 26,
+    "y": 50,
+    "w": 46,
+    "h": 35
+   },
+   {
+    "item": "saro-greek-key-table-runner",
+    "x": 28,
+    "y": 52,
+    "w": 42,
+    "h": 14
+   },
+   {
+    "item": "baughman-thayer-coggin-chrome-dining-chairs-set4",
+    "x": 58,
+    "y": 53,
+    "w": 24,
+    "h": 42
+   },
+   {
+    "item": "chapman-hollywood-regency-brass-lamps-pair",
+    "x": 31,
+    "y": 20,
+    "w": 37,
+    "h": 22
+   },
+   {
+    "item": "std-jute-rug-nuloom-ashli-5x8",
+    "x": 2,
+    "y": 92,
+    "w": 10,
+    "h": 7
+   }
+  ],
+  "notes": {
+   "saarinen-tulip-dining-table-42-round-knoll": "Vintage (dipakai ulang).",
+   "baughman-thayer-coggin-chrome-dining-chairs-set4": "Vintage.",
+   "chapman-hollywood-regency-brass-lamps-pair": "Vintage.",
+   "saro-greek-key-table-runner": "BELI BARU $43 — Greek key.",
+   "std-jute-rug-nuloom-ashli-5x8": "Baru, dasar."
+  },
+  "hardware": [],
+  "amenities": [
+   "Karpet vintage biru-gading kecil di atas jute (thrift ±$50)",
+   "Mangkuk biru-putih + hydrangea (±$30)",
+   "Candlestick kuningan (±$20)",
+   "Tray rotan + decanter kristal (±$30)",
+   "Olive tree pot (±$40)",
+   "Print botani bingkai emas thrift (±$15)"
+  ],
+  "decor": [
+   "LAYERING: jute → karpet vintage biru; meja: marmer → runner Greek key → mangkuk keramik → lilin; sideboard: tumpukan buku → tray rotan → decanter.",
+   "MATERIAL (10): marmer, chrome, kuningan, velvet, linen, lacquer, rotan, kaca, keramik, tanaman.",
+   "LAMA–BARU ±80/20: meja, kursi, lampu, print vintage; runner, bunga, tanaman baru.",
+   "Campur logam aman: chrome kursi + kuningan lampu, diikat palet putih-biru.",
+   "SENI & TECH: layering bingkai di dinding (jarak 5–8 cm, tengah ±145 cm) atau 2–3 bingkai bertumpuk di rak/konsol; maks. 1 kanvas besar bersandar di lantai; TV = Frame TV Art Mode di gallery wall, kabel di dalam dinding, speaker kecil di antara buku, router/charger di keranjang atau buku berongga."
+  ]
+ }
+]
